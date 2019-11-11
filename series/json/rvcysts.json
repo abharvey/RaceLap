@@ -1,0 +1,52 @@
+{
+"event": [
+{
+	"name": "RVC Youth STS",
+	"date": "2018",
+	"location": "Fredericton, NB",
+	"organizer": "RVC",
+	"type": "XCC",
+	"resultstatus": "Official Results",
+	"public": true
+}
+],
+"Youth::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Kaj","Last Name":"Jones","Affiliation":"NB01996","Club":"The Radical Edge","W1":"65","W2":"65","W3":"70","W4":"65","Total":"265"},
+		{"Place":"2","First Name":"William","Last Name":"Carmichael","Affiliation":"NB02050","Club":"Independent","W1":"80","W2":"80","W3":"80","W4":"0","Total":"240"},
+		{"Place":"3","First Name":"Rein","Last Name":"Jones","Affiliation":"NB01997","Club":"The Radical Edge","W1":"48","W2":"55","W3":"65","W4":"60","Total":"228"},
+		{"Place":"4","First Name":"Ian","Last Name":"Carmichael","Affiliation":"NB02120","Club":"Abony Family Tennis Center","W1":"50","W2":"60","W3":"55","W4":"55","Total":"220"},
+		{"Place":"5","First Name":"Jack","Last Name":"Toner","Affiliation":"NB01975","Club":"River Valley Cycling Inc","W1":"70","W2":"70","W3":"0","W4":"70","Total":"210"},
+		{"Place":"6","First Name":"Noah","Last Name":"Boudreau","Affiliation":"NB02153","Club":"Independent","W1":"55","W2":"40","W3":"60","W4":"48","Total":"203"},
+		{"Place":"7","First Name":"Aidan","Last Name":"Tower","Affiliation":"NB02125","Club":"River Valley Cycling Inc","W1":"44","W2":"50","W3":"50","W4":"46","Total":"190"},
+		{"Place":"8","First Name":"Brandon","Last Name":"Tower","Affiliation":"NB02126","Club":"River Valley Cycling Inc","W1":"42","W2":"44","W3":"48","W4":"44","Total":"178"},
+		{"Place":"9","First Name":"Jack","Last Name":"Taylor","Affiliation":"NB02156","Club":"River Valley Cycling Inc","W1":"38","W2":"48","W3":"46","W4":"42","Total":"174"},
+		{"Place":"10","First Name":"Bennet","Last Name":"McKinnon","Affiliation":"NB01826","Club":"The Radical Edge","W1":"46","W2":"0","W3":"0","W4":"80","Total":"126"},
+		{"Place":"11","First Name":"Gabe","Last Name":"Arseneau","Affiliation":"","Club":"Independent","W1":"39","W2":"46","W3":"0","W4":"0","Total":"85"},
+		{"Place":"12","First Name":"Simon","Last Name":"Arsenault","Affiliation":"NB01874","Club":"Millennium Cycle & Sport","W1":"60","W2":"0","W3":"0","W4":"0","Total":"60"},
+		{"Place":"13","First Name":"Nayan","Last Name":"Orfei","Affiliation":"","Club":"Independent","W1":"0","W2":"0","W3":"0","W4":"50","Total":"50"},
+		{"Place":"14","First Name":"Will","Last Name":"Bower","Affiliation":"","Club":"Independent","W1":"0","W2":"42","W3":"0","W4":"0","Total":"42"},
+		{"Place":"15","First Name":"Noah","Last Name":"Robichaud","Affiliation":"","Club":"Independent","W1":"40","W2":"0","W3":"0","W4":"0","Total":"40"},
+		{"Place":"16","First Name":"Hayden","Last Name":"Sparkes","Affiliation":"NB02093","Club":"The Radical Edge","W1":"0","W2":"39","W3":"0","W4":"0","Total":"39"},
+		{"Place":"17","First Name":"Mathis","Last Name":"Banville","Affiliation":"","Club":"Independent","W1":"37","W2":"0","W3":"0","W4":"0","Total":"37"},
+		{"Place":"18","First Name":"Matthew","Last Name":"Armstrong","Affiliation":"","Club":"Independent","W1":"36","W2":"0","W3":"0","W4":"0","Total":"36"}	]
+},
+"Youth::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Mattea","Last Name":"McNair","Affiliation":"NB01764","Club":"River Valley Cycling Inc","W1":"80","W2":"80","W3":"80","W4":"65","Total":"305"},
+		{"Place":"2","First Name":"Katie","Last Name":"Carmichael","Affiliation":"NB02121","Club":"Abony Family Tennis Center","W1":"65","W2":"70","W3":"70","W4":"80","Total":"285"},
+		{"Place":"3","First Name":"Lily-Jane","Last Name":"Sparkes","Affiliation":"NB02092","Club":"The Radical Edge","W1":"70","W2":"65","W3":"65","W4":"70","Total":"270"},
+		{"Place":"4","First Name":"Katie","Last Name":"Bower","Affiliation":"NB02027","Club":"The Radical Edge","W1":"60","W2":"60","W3":"0","W4":"55","Total":"175"},
+		{"Place":"5","First Name":"Mia","Last Name":"Baxter","Affiliation":"NB02142","Club":"River Valley Cycling Inc","W1":"0","W2":"55","W3":"60","W4":"60","Total":"175"},
+		{"Place":"6","First Name":"Morgan","Last Name":"Chandler","Affiliation":"NB02132","Club":"Independent","W1":"0","W2":"0","W3":"55","W4":"50","Total":"105"},
+		{"Place":"7","First Name":"Lindsay","Last Name":"Carmichael","Affiliation":"","Club":"Independent","W1":"0","W2":"50","W3":"50","W4":"0","Total":"100"},
+		{"Place":"8","First Name":"Siena","Last Name":"Arsenault","Affiliation":"NB01873","Club":"Millennium Cycle & Sport","W1":"55","W2":"0","W3":"0","W4":"0","Total":"55"}
+	]
+}
+}

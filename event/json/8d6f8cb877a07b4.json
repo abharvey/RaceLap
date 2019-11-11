@@ -1,0 +1,113 @@
+{
+"event": [
+{
+	"name": "Defi MBS Semaine 6",
+	"date": "juin 24, 2019",
+	"location": "Dieppe, NB",
+	"commissaire": "Jeff Currie",
+	"participant": "42",
+	"resultstatus": "Official Results",
+	"organizer": "Mike's Bike Shop",
+	"type": "XCC",
+	"public": true,
+	"fid": "8d6f8cb877a07b4"
+}
+],
+"U17 (Youth)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"6","First Name":"Samuel","Last Name":"Beaupre","VNBAffiliation":"NB01672","UCIAffiliation":"10075803157","Gender":"M","Club":"Fitworks","Cat":"U17 (Youth)","Laps":"4","Points":"125","Finish Time":"00:31:33.887","Gap":"","Start":"00:00:00.00","Lap 1":"00:07:34.48","Lap 2":"00:07:50.96","Lap 3":"00:08:01.49","Lap 4":"00:08:06.93"},
+			{"Place":"2","Bib":"46","First Name":"Jayson","Last Name":"Lawson","VNBAffiliation":"NB01950","UCIAffiliation":"10094772822","Gender":"M","Club":"Fitworks","Cat":"U17 (Youth)","Laps":"4","Points":"100","Finish Time":"00:34:57.293","Gap":"+3:23.40","Start":"00:00:00.00","Lap 1":"00:08:33.31","Lap 2":"00:08:46.22","Lap 3":"00:08:57.22","Lap 4":"00:08:40.52"},
+			{"Place":"3","Bib":"4","First Name":"William","Last Name":"Arseneau","VNBAffiliation":"NB01674","UCIAffiliation":"10066022931","Gender":"M","Club":"Fitworks","Cat":"U17 (Youth)","Laps":"3","Points":"80","Finish Time":"00:33:09.949","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:00.24","Lap 2":"00:10:59.19","Lap 3":"00:11:10.51","Lap 4":""},
+			{"Place":"4","Bib":"79","First Name":"Micah","Last Name":"Griffiths","VNBAffiliation":"NB02075","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U17 (Youth)","Laps":"3","Points":"75","Finish Time":"00:33:56.867","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:36.36","Lap 2":"00:11:10.21","Lap 3":"00:11:10.28","Lap 4":""}
+		]
+},
+"U17 (Youth)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"43","First Name":"Emilie Chloe","Last Name":"McIntyre","VNBAffiliation":"NB01667","UCIAffiliation":"10061074719","Gender":"F","Club":"Fitworks","Cat":"U17 (Youth)","Laps":"4","Points":"125","Finish Time":"00:34:30.151","Gap":"","Start":"00:00:00.00","Lap 1":"00:08:26.22","Lap 2":"00:08:30.42","Lap 3":"00:08:48.33","Lap 4":"00:08:45.16"},
+			{"Place":"2","Bib":"48","First Name":"Vanessa","Last Name":"Thomsen","VNBAffiliation":"NB01673","UCIAffiliation":"10055673637","Gender":"F","Club":"Fitworks","Cat":"U17 (Youth)","Laps":"4","Points":"100","Finish Time":"00:40:04.208","Gap":"+5:34.05","Start":"00:00:00.00","Lap 1":"00:09:30.64","Lap 2":"00:10:29.52","Lap 3":"00:09:52.13","Lap 4":"00:10:11.89"}
+		]
+},
+"U15 (Youth)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"9","First Name":"Alex","Last Name":"Hache","VNBAffiliation":"NB01665","UCIAffiliation":"10075804268","Gender":"M","Club":"Fitworks","Cat":"U15 (Youth)","Laps":"4","Points":"125","Finish Time":"00:32:43.855","Gap":"","Start":"00:00:00.00","Lap 1":"00:07:57.38","Lap 2":"00:07:58.36","Lap 3":"00:08:18.09","Lap 4":"00:08:30.01"},
+			{"Place":"2","Bib":"20","First Name":"Xavier","Last Name":"Morin","VNBAffiliation":"NB01675","UCIAffiliation":"10059253543","Gender":"M","Club":"Fitworks","Cat":"U15 (Youth)","Laps":"4","Points":"100","Finish Time":"00:33:16.442","Gap":"+0:32.58","Start":"00:00:00.00","Lap 1":"00:08:09.36","Lap 2":"00:08:20.43","Lap 3":"00:08:16.09","Lap 4":"00:08:30.55"},
+			{"Place":"3","Bib":"13","First Name":"Joshua","Last Name":"Pellerin","VNBAffiliation":"NB01671","UCIAffiliation":"10060737441","Gender":"M","Club":"Fitworks","Cat":"U15 (Youth)","Laps":"4","Points":"80","Finish Time":"00:34:09.316","Gap":"+1:25.46","Start":"00:00:00.00","Lap 1":"00:08:30.06","Lap 2":"00:08:04.94","Lap 3":"00:08:41.84","Lap 4":"00:08:52.47"},
+			{"Place":"4","Bib":"16","First Name":"Patrick","Last Name":"Fournier","VNBAffiliation":"NB01850","UCIAffiliation":"","Gender":"M","Club":"VELO Bike Ski Trail","Cat":"U15 (Youth)","Laps":"4","Points":"75","Finish Time":"00:35:52.220","Gap":"+3:08.36","Start":"00:00:00.00","Lap 1":"00:08:58.26","Lap 2":"00:08:54.89","Lap 3":"00:09:02.75","Lap 4":"00:08:56.31"},
+			{"Place":"5","Bib":"60","First Name":"Joshua","Last Name":"Boudreau","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"4","Points":"70","Finish Time":"00:37:28.332","Gap":"+4:44.47","Start":"00:00:00.00","Lap 1":"00:09:30.35","Lap 2":"00:09:01.01","Lap 3":"00:09:18.81","Lap 4":"00:09:38.16"},
+			{"Place":"6","Bib":"61","First Name":"Nicholas","Last Name":"Cormier-Massiera","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"4","Points":"65","Finish Time":"00:38:49.277","Gap":"+6:05.42","Start":"00:00:00.00","Lap 1":"00:08:48.73","Lap 2":"00:10:15.45","Lap 3":"00:09:50.44","Lap 4":"00:09:54.63"},
+			{"Place":"7","Bib":"111","First Name":"Eric","Last Name":"Haché","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"4","Points":"60","Finish Time":"00:41:09.009","Gap":"+8:25.15","Start":"00:00:00.00","Lap 1":"00:09:29.92","Lap 2":"00:10:05.38","Lap 3":"00:10:38.37","Lap 4":"00:10:55.32"},
+			{"Place":"8","Bib":"14","First Name":"Mathieu","Last Name":"Doiron","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"3","Points":"55","Finish Time":"00:31:48.779","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:10:43.49","Lap 2":"00:10:28.45","Lap 3":"00:10:36.83","Lap 4":""},
+			{"Place":"9","Bib":"19","First Name":"Xavier","Last Name":"Dupuis","VNBAffiliation":"NB01923","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"3","Points":"50","Finish Time":"00:32:37.575","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:10:41.88","Lap 2":"00:10:47.60","Lap 3":"00:11:08.09","Lap 4":""},
+			{"Place":"10","Bib":"18","First Name":"William","Last Name":"Adams","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"3","Points":"45","Finish Time":"00:33:38.618","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:10.36","Lap 2":"00:10:55.90","Lap 3":"00:11:32.35","Lap 4":""},
+			{"Place":"11","Bib":"7","First Name":"Alek","Last Name":"Babineau","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"3","Points":"40","Finish Time":"00:34:54.938","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:10:59.55","Lap 2":"00:11:52.49","Lap 3":"00:12:02.89","Lap 4":""},
+			{"Place":"12","Bib":"81","First Name":"Ryan","Last Name":"Weaber","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U15 (Youth)","Laps":"3","Points":"35","Finish Time":"00:36:51.391","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:18.86","Lap 2":"00:12:39.36","Lap 3":"00:12:53.16","Lap 4":""}
+		]
+},
+"U15 (Youth)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"]
+		],
+	"results": [
+		]
+},
+"U13 (Youth)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"]
+		],
+	"results": [
+			{"Place":"1","Bib":"28","First Name":"Jonathan","Last Name":"Cook","VNBAffiliation":"NB01669","UCIAffiliation":"10089077407","Gender":"M","Club":"Fitworks","Cat":"U13 (Youth)","Laps":"3","Points":"125","Finish Time":"00:30:28.292","Gap":"","Start":"00:00:00.00","Lap 1":"00:10:34.51","Lap 2":"00:09:49.32","Lap 3":"00:10:04.44"},
+			{"Place":"2","Bib":"36","First Name":"Philippe","Last Name":"Morin","VNBAffiliation":"NB01704","UCIAffiliation":"","Gender":"M","Club":"Fitworks","Cat":"U13 (Youth)","Laps":"3","Points":"100","Finish Time":"00:31:10.666","Gap":"+0:42.37","Start":"00:00:00.00","Lap 1":"00:10:36.18","Lap 2":"00:09:49.29","Lap 3":"00:10:45.18"},
+			{"Place":"3","Bib":"41","First Name":"Xavier","Last Name":"Vautour","VNBAffiliation":"NB01949","UCIAffiliation":"10094772721","Gender":"M","Club":"Fitworks","Cat":"U13 (Youth)","Laps":"3","Points":"80","Finish Time":"00:34:38.183","Gap":"+4:09.89","Start":"00:00:00.00","Lap 1":"00:12:03.75","Lap 2":"00:10:59.31","Lap 3":"00:11:35.11"},
+			{"Place":"4","Bib":"96","First Name":"Ewan","Last Name":"Halfpenny","VNBAffiliation":"NB02133","UCIAffiliation":"","Gender":"M","Club":"Velo Bike Ski Trail","Cat":"U13 (Youth)","Laps":"3","Points":"75","Finish Time":"00:34:39.454","Gap":"+4:11.16","Start":"00:00:00.00","Lap 1":"00:12:16.57","Lap 2":"00:10:44.69","Lap 3":"00:11:38.18"},
+			{"Place":"5","Bib":"24","First Name":"Jacob","Last Name":"Handel","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U13 (Youth)","Laps":"3","Points":"70","Finish Time":"00:35:21.581","Gap":"+4:53.28","Start":"00:00:00.00","Lap 1":"00:12:10.71","Lap 2":"00:11:25.18","Lap 3":"00:11:45.68"},
+			{"Place":"6","Bib":"37","First Name":"Vincent","Last Name":"Doiron","VNBAffiliation":"NB01952","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U13 (Youth)","Laps":"3","Points":"65","Finish Time":"00:35:25.731","Gap":"+4:57.43","Start":"00:00:00.00","Lap 1":"00:12:13.08","Lap 2":"00:11:27.43","Lap 3":"00:11:45.21"},
+			{"Place":"7","Bib":"23","First Name":"Cedric","Last Name":"Leblanc","VNBAffiliation":"NB01980","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U13 (Youth)","Laps":"3","Points":"60","Finish Time":"00:36:34.688","Gap":"+6:06.39","Start":"00:00:00.00","Lap 1":"00:12:35.13","Lap 2":"00:12:52.52","Lap 3":"00:11:07.03"},
+			{"Place":"8","Bib":"98","First Name":"Maxime","Last Name":"Ricar","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U13 (Youth)","Laps":"2","Points":"55","Finish Time":"00:33:28.594","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:15:57.00","Lap 2":"00:17:31.58","Lap 3":""}
+		]
+},
+"U13 (Youth)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"]
+		],
+	"results": [
+			{"Place":"1","Bib":"56","First Name":"Catherine","Last Name":"Belanger","VNBAffiliation":"NB01977","UCIAffiliation":"","Gender":"F","Club":"Independent","Cat":"U13 (Youth)","Laps":"3","Points":"125","Finish Time":"00:36:50.448","Gap":"","Start":"00:00:00.00","Lap 1":"00:12:15.51","Lap 2":"00:12:51.72","Lap 3":"00:11:43.20"},
+			{"Place":"2","Bib":"33","First Name":"Mélyzane","Last Name":"Lagacé","VNBAffiliation":"NB02020","UCIAffiliation":"","Gender":"F","Club":"Mike's Bike Shop","Cat":"U13 (Youth)","Laps":"3","Points":"100","Finish Time":"00:43:06.290","Gap":"+6:15.84","Start":"00:00:00.00","Lap 1":"00:13:42.80","Lap 2":"00:14:50.11","Lap 3":"00:14:33.37"}
+		]
+},
+"U11 (Youth)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"83","First Name":"Alexandre","Last Name":"Caissie","VNBAffiliation":"NB01712","UCIAffiliation":"10079755707","Gender":"M","Club":"VeloKent","Cat":"U11 (Youth)","Laps":"2","Points":"125","Finish Time":"00:16:32.990","Gap":"","Start":"00:00:00.00","Lap 1":"00:08:51.28","Lap 2":"00:07:41.71"},
+			{"Place":"2","Bib":"75","First Name":"Dominic","Last Name":"Beaupre","VNBAffiliation":"NB01802","UCIAffiliation":"10092912644","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"100","Finish Time":"00:19:45.838","Gap":"+3:12.84","Start":"00:00:00.00","Lap 1":"00:09:44.00","Lap 2":"00:10:01.83"},
+			{"Place":"3","Bib":"58","First Name":"Julien","Last Name":"Murdock","VNBAffiliation":"NB02003","UCIAffiliation":"","Gender":"M","Club":"Mike's Bike Shop","Cat":"U11 (Youth)","Laps":"2","Points":"80","Finish Time":"00:20:29.829","Gap":"+3:56.83","Start":"00:00:00.00","Lap 1":"00:10:29.25","Lap 2":"00:10:00.57"},
+			{"Place":"4","Bib":"42","First Name":"Mickaël","Last Name":"Lagacé","VNBAffiliation":"NB02021","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"75","Finish Time":"00:20:30.710","Gap":"+3:57.72","Start":"00:00:00.00","Lap 1":"00:10:22.01","Lap 2":"00:10:08.69"},
+			{"Place":"5","Bib":"107","First Name":"Lucas","Last Name":"Deesrosier","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"70","Finish Time":"00:20:52.714","Gap":"+4:19.72","Start":"00:00:00.00","Lap 1":"00:10:17.79","Lap 2":"00:10:34.92"},
+			{"Place":"6","Bib":"62","First Name":"Tristan","Last Name":"Doucet","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"65","Finish Time":"00:20:53.298","Gap":"+4:20.30","Start":"00:00:00.00","Lap 1":"00:10:24.47","Lap 2":"00:10:28.82"},
+			{"Place":"7","Bib":"89","First Name":"Caleb","Last Name":"Landry","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"60","Finish Time":"00:25:25.189","Gap":"+8:52.19","Start":"00:00:00.00","Lap 1":"00:10:47.05","Lap 2":"00:14:38.13"},
+			{"Place":"8","Bib":"99","First Name":"Samuel","Last Name":"Ricar","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"55","Finish Time":"00:26:18.872","Gap":"+9:45.88","Start":"00:00:00.00","Lap 1":"00:12:23.09","Lap 2":"00:13:55.78"},
+			{"Place":"9","Bib":"98","First Name":"Hugo","Last Name":"Paré","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"50","Finish Time":"00:33:28.594","Gap":"+16:55.60","Start":"00:00:00.00","Lap 1":"00:15:57.00","Lap 2":"00:17:31.58"}
+		]
+},
+"U11 (Youth)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"64","First Name":"Laure-Anne","Last Name":"Lang","VNBAffiliation":"NB01691","UCIAffiliation":"10079756010","Gender":"F","Club":"VeloKent","Cat":"U11 (Youth)","Laps":"2","Points":"125","Finish Time":"00:20:37.343","Gap":"","Start":"00:00:00.00","Lap 1":"00:10:10.29","Lap 2":"00:10:27.05"},
+			{"Place":"2","Bib":"66","First Name":"Kamille","Last Name":"Doiron","VNBAffiliation":"NB01960","UCIAffiliation":"","Gender":"F","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"100","Finish Time":"00:21:51.797","Gap":"+1:14.45","Start":"00:00:00.00","Lap 1":"00:11:05.09","Lap 2":"00:10:46.69"},
+			{"Place":"3","Bib":"80","First Name":"Jasmine","Last Name":"Leblanc","VNBAffiliation":"NB01979","UCIAffiliation":"","Gender":"F","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"80","Finish Time":"00:21:59.355","Gap":"+1:22.01","Start":"00:00:00.00","Lap 1":"00:10:45.21","Lap 2":"00:11:14.14"},
+			{"Place":"4","Bib":"57","First Name":"Janie","Last Name":"Belanger","VNBAffiliation":"NB01978","UCIAffiliation":"","Gender":"F","Club":"Independent","Cat":"U11 (Youth)","Laps":"2","Points":"75","Finish Time":"00:25:28.907","Gap":"+4:51.56","Start":"00:00:00.00","Lap 1":"00:12:03.03","Lap 2":"00:13:25.87"}
+		]
+	}
+}

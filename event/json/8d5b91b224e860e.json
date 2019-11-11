@@ -1,0 +1,110 @@
+{
+"event": [
+{
+	"name": "Tour de Dog",
+	"date": "May 6, 2018",
+	"location": "Durham Bridge, NB",
+	"commissaire": "Christian Charette",
+	"participant": "39",
+	"resultstatus":"Official Results",
+	"organizer": "Velo NB",
+	"type": "RR",
+	"public": true
+}
+],
+"A (Elite)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"],["Lap 5"]
+		],
+	"results": [
+			{"Place":"1","Bib":"20","First Name":"Brian","Last Name":"McKeown","Gender":"M","Club":"The Radical Edge","Cat":"A","Laps":"5","Points":"80","Finish Time":"02:27:35.689","Gap":"","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:27:51.57","Lap 3":"00:29:35.43","Lap 4":"00:30:44.40","Lap 5":"00:29:58.27"},
+			{"Place":"2","Bib":"37","First Name":"Shaughn","Last Name":"Smith","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"A","Laps":"5","Points":"70","Finish Time":"02:27:36.261","Gap":"+0:00.57","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:27:52.25","Lap 3":"00:29:34.91","Lap 4":"00:30:38.41","Lap 5":"00:30:04.66"},
+			{"Place":"3","Bib":"6","First Name":"Andrew","Last Name":"Buzzell","Gender":"M","Club":"Fitworks","Cat":"A","Laps":"5","Points":"65","Finish Time":"02:27:36.507","Gap":"+0:00.81","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:27:51.41","Lap 3":"00:29:35.82","Lap 4":"00:30:44.08","Lap 5":"00:29:59.17"},
+			{"Place":"4","Bib":"39","First Name":"Jason","Last Name":"Lagace","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"A","Laps":"5","Points":"60","Finish Time":"02:28:54.725","Gap":"+1:19.03","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:27:52.13","Lap 3":"00:29:35.58","Lap 4":"00:30:43.94","Lap 5":"00:31:17.05"},
+			{"Place":"5","Bib":"26","First Name":"Mike","Last Name":"Turnbull","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"A","Laps":"5","Points":"55","Finish Time":"02:40:23.614","Gap":"+12:47.92","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:29:28.44","Lap 3":"00:33:13.57","Lap 4":"00:33:57.18","Lap 5":"00:34:18.39"},
+			{"Place":"6","Bib":"14","First Name":"Rodney","Last Name":"Clarke","Gender":"M","Club":"The Radical Edge","Cat":"A","Laps":"5","Points":"50","Finish Time":"02:45:22.610","Gap":"+17:46.92","Start":"00:00:00.00","Lap 1":"00:30:24.76","Lap 2":"00:32:58.54","Lap 3":"00:34:01.76","Lap 4":"00:33:33.61","Lap 5":"00:34:23.92"},
+			{"Place":"DNF","Bib":"9","First Name":"Mike","Last Name":"Davis","Gender":"M","Club":"The Radical Edge","Cat":"A","Laps":"4","Points":"0","Finish Time":"02:11:22.689","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:29:26.00","Lap 2":"00:33:57.22","Lap 3":"00:34:02.92","Lap 4":"00:33:56.53","Lap 5":""}
+		]
+},
+"A (Elite)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"4","First Name":"Emily","Last Name":"Rodger","Gender":"F","Club":"Independent","Cat":"A","Laps":"4","Points":"80","Finish Time":"02:20:08.250","Gap":"","Start":"00:04:00.00","Lap 1":"00:31:11.55","Lap 2":"00:32:32.08","Lap 3":"00:31:39.55","Lap 4":"00:28:45.05"},
+			{"Place":"2","Bib":"2","First Name":"Sarah","Last Name":"Gilbert","Gender":"F","Club":"Lorneville Cycling Club","Cat":"A","Laps":"4","Points":"70","Finish Time":"02:22:53.541","Gap":"+2:45.29","Start":"00:04:00.00","Lap 1":"00:31:11.37","Lap 2":"00:32:32.14","Lap 3":"00:32:37.55","Lap 4":"00:30:32.46"},
+			{"Place":"3","Bib":"15","First Name":"Laura","Last Name":"Clarke","Gender":"F","Club":"Lorneville Cycling Club","Cat":"A","Laps":"4","Points":"65","Finish Time":"02:26:35.990","Gap":"+6:27.74","Start":"00:04:00.00","Lap 1":"00:31:11.91","Lap 2":"00:32:32.20","Lap 3":"00:33:15.92","Lap 4":"00:33:35.95"},
+			{"Place":"4","Bib":"16","First Name":"Emma","Last Name":"Booker","Gender":"F","Club":"The Radical Edge","Cat":"A","Laps":"4","Points":"60","Finish Time":"02:27:50.213","Gap":"+7:41.96","Start":"00:04:00.00","Lap 1":"00:31:12.15","Lap 2":"00:32:31.63","Lap 3":"00:33:20.17","Lap 4":"00:34:46.24"},
+			{"Place":"5","Bib":"5","First Name":"Gina","Last Name":"Spear Burrows","Gender":"F","Club":"Independent","Cat":"A","Laps":"4","Points":"55","Finish Time":"02:28:56.114","Gap":"+8:47.86","Start":"00:04:00.00","Lap 1":"00:31:12.40","Lap 2":"00:32:31.04","Lap 3":"00:33:16.31","Lap 4":"00:35:56.35"},
+			{"Place":"6","Bib":"41","First Name":"Rebekah","Last Name":"Chassé","Gender":"F","Club":"River Valley Cycling Inc","Cat":"A","Laps":"4","Points":"50","Finish Time":"02:29:04.953","Gap":"+8:56.70","Start":"00:04:00.00","Lap 1":"00:31:12.79","Lap 2":"00:32:30.36","Lap 3":"00:33:16.83","Lap 4":"00:36:04.95"},
+			{"Place":"7","Bib":"1","First Name":"Danielle","Last Name":"Dumouchel","Gender":"F","Club":"Lorneville Cycling Club","Cat":"A","Laps":"4","Points":"48","Finish Time":"02:32:14.205","Gap":"+12:05.95","Start":"00:04:00.00","Lap 1":"00:31:11.74","Lap 2":"00:32:31.82","Lap 3":"00:33:16.27","Lap 4":"00:39:14.36"},
+			{"Place":"8","Bib":"3","First Name":"Amanda","Last Name":"Lee","Gender":"F","Club":"Lorneville Cycling Club","Cat":"A","Laps":"4","Points":"46","Finish Time":"02:33:25.127","Gap":"+13:16.87","Start":"00:04:00.00","Lap 1":"00:31:11.42","Lap 2":"00:34:15.74","Lap 3":"00:34:45.73","Lap 4":"00:37:12.23"},
+			{"Place":"DNF","Bib":"27","First Name":"Rachel","Last Name":"Merrithew","Gender":"F","Club":"The Radical Edge","Cat":"A","Laps":"3","Points":"0","Finish Time":"01:55:44.717","Gap":"-1 Lap","Start":"00:04:00.00","Lap 1":"00:31:12.24","Lap 2":"00:34:14.40","Lap 3":"00:38:18.06","Lap 4":""}
+		]
+},
+"B (Expert)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"12","First Name":"Joe","Last Name":"Chamberlain","Gender":"M","Club":"The Radical Edge","Cat":"B","Laps":"4","Points":"80","Finish Time":"02:08:42.843","Gap":"","Start":"00:02:00.00","Lap 1":"00:31:38.18","Lap 2":"00:30:47.41","Lap 3":"00:29:54.04","Lap 4":"00:28:23.20"},
+			{"Place":"2","Bib":"7","First Name":"Michael","Last Name":"Roy","Gender":"M","Club":"My Bike Shop","Cat":"B","Laps":"4","Points":"70","Finish Time":"02:08:51.485","Gap":"+0:08.64","Start":"00:02:00.00","Lap 1":"00:31:36.72","Lap 2":"00:30:48.80","Lap 3":"00:29:54.29","Lap 4":"00:28:31.66"},
+			{"Place":"3","Bib":"30","First Name":"Sébastien","Last Name":"Boudreau","Gender":"M","Club":"The Radical Edge","Cat":"B","Laps":"4","Points":"65","Finish Time":"02:11:33.281","Gap":"+2:50.43","Start":"00:02:00.00","Lap 1":"00:31:39.24","Lap 2":"00:30:43.13","Lap 3":"00:30:04.07","Lap 4":"00:31:06.83"},
+			{"Place":"4","Bib":"40","First Name":"Ryan","Last Name":"Muir","Gender":"M","Club":"The Radical Edge","Cat":"B","Laps":"4","Points":"60","Finish Time":"02:11:36.350","Gap":"+2:53.50","Start":"00:02:00.00","Lap 1":"00:31:37.33","Lap 2":"00:30:48.01","Lap 3":"00:30:01.43","Lap 4":"00:31:09.57"},
+			{"Place":"5","Bib":"36","First Name":"Glenn","Last Name":"Trites","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"B","Laps":"4","Points":"55","Finish Time":"02:13:24.443","Gap":"+4:41.60","Start":"00:02:00.00","Lap 1":"00:31:37.81","Lap 2":"00:30:48.59","Lap 3":"00:30:02.59","Lap 4":"00:32:55.43"},
+			{"Place":"6","Bib":"28","First Name":"Eric","Last Name":"Garland","Gender":"M","Club":"The Radical Edge","Cat":"B","Laps":"4","Points":"50","Finish Time":"02:13:49.413","Gap":"+5:06.57","Start":"00:02:00.00","Lap 1":"00:31:38.46","Lap 2":"00:30:48.57","Lap 3":"00:30:03.37","Lap 4":"00:33:19.00"},
+			{"Place":"7","Bib":"35","First Name":"Judson","Last Name":"VanDine","Gender":"M","Club":"Savage's Bicycle Centre","Cat":"B","Laps":"4","Points":"48","Finish Time":"02:13:50.303","Gap":"+5:07.46","Start":"00:02:00.00","Lap 1":"00:31:38.49","Lap 2":"00:30:50.44","Lap 3":"00:30:01.40","Lap 4":"00:33:19.96"},
+			{"Place":"8","Bib":"25","First Name":"Sean","Last Name":"Donovan","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"B","Laps":"4","Points":"46","Finish Time":"02:16:04.830","Gap":"+7:21.98","Start":"00:02:00.00","Lap 1":"00:31:38.76","Lap 2":"00:30:49.18","Lap 3":"00:31:28.24","Lap 4":"00:34:08.63"},
+			{"Place":"9","Bib":"23","First Name":"David","Last Name":"Knott","Gender":"M","Club":"Savage's Bicycle Centre","Cat":"B","Laps":"4","Points":"44","Finish Time":"02:16:12.179","Gap":"+7:29.33","Start":"00:02:00.00","Lap 1":"00:31:38.87","Lap 2":"00:30:49.88","Lap 3":"00:31:26.99","Lap 4":"00:34:16.41"},
+			{"Place":"10","Bib":"11","First Name":"Dany","Last Name":"Benoit","Gender":"M","Club":"Mike's Bike Shop","Cat":"B","Laps":"4","Points":"42","Finish Time":"02:16:13.045","Gap":"+7:30.20","Start":"00:02:00.00","Lap 1":"00:31:37.16","Lap 2":"00:30:51.73","Lap 3":"00:31:25.22","Lap 4":"00:34:18.93"},
+			{"Place":"11","Bib":"21","First Name":"Boon","Last Name":"Kek","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"B","Laps":"4","Points":"40","Finish Time":"02:16:13.844","Gap":"+7:31.00","Start":"00:02:00.00","Lap 1":"00:31:39.18","Lap 2":"00:30:50.27","Lap 3":"00:31:25.10","Lap 4":"00:34:19.28"},
+			{"Place":"12","Bib":"33","First Name":"Kendall","Last Name":"Wright","Gender":"M","Club":"River Valley Cycling Inc","Cat":"B","Laps":"4","Points":"39","Finish Time":"02:16:25.198","Gap":"+7:42.35","Start":"00:02:00.00","Lap 1":"00:31:37.70","Lap 2":"00:30:52.72","Lap 3":"00:31:28.15","Lap 4":"00:34:26.61"},
+			{"Place":"13","Bib":"8","First Name":"William","Last Name":"Lane","Gender":"M","Club":"My Bike Shop","Cat":"B","Laps":"4","Points":"38","Finish Time":"02:19:50.232","Gap":"+11:07.38","Start":"00:02:00.00","Lap 1":"00:31:39.56","Lap 2":"00:30:51.01","Lap 3":"00:32:56.72","Lap 4":"00:36:22.93"},
+			{"Place":"14","Bib":"10","First Name":"Jeff","Last Name":"Currie","Gender":"M","Club":"Mike's Bike Shop","Cat":"B","Laps":"4","Points":"37","Finish Time":"02:19:50.519","Gap":"+11:07.67","Start":"00:02:00.00","Lap 1":"00:31:37.11","Lap 2":"00:30:48.75","Lap 3":"00:33:01.91","Lap 4":"00:36:22.73"},
+			{"Place":"DNF","Bib":"38","First Name":"Dean","Last Name":"Roberts","Gender":"M","Club":"Millennium Cycle & Sport","Cat":"B","Laps":"3","Points":"0","Finish Time":"01:40:04.434","Gap":"-1 Lap","Start":"00:02:00.00","Lap 1":"00:31:37.83","Lap 2":"00:30:49.40","Lap 3":"00:31:37.19","Lap 4":""}
+		]
+},
+"B (Expert)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"]
+		],
+	"results": [
+		]
+},
+"C (Sport)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"]
+		],
+	"results": [
+			{"Place":"1","Bib":"31","First Name":"Brad","Last Name":"Borgald","Gender":"M","Club":"The Radical Edge","Cat":"C","Laps":"3","Points":"80","Finish Time":"01:49:57.141","Gap":"","Start":"00:06:00.00","Lap 1":"00:28:41.99","Lap 2":"00:30:43.89","Lap 3":"00:32:31.24"},
+			{"Place":"2","Bib":"24","First Name":"Jacob","Last Name":"Miller","Gender":"M","Club":"River Valley Cycling","Cat":"C","Laps":"3","Points":"70","Finish Time":"01:49:59.814","Gap":"+0:02.67","Start":"00:06:00.00","Lap 1":"00:28:42.04","Lap 2":"00:30:43.83","Lap 3":"00:32:33.93"},
+			{"Place":"3","Bib":"29","First Name":"Noah","Last Name":"Lydon","Gender":"M","Club":"The Radical Edge","Cat":"C","Laps":"3","Points":"65","Finish Time":"01:50:01.360","Gap":"+0:04.21","Start":"00:06:00.00","Lap 1":"00:28:42.35","Lap 2":"00:30:44.56","Lap 3":"00:32:34.44"},
+			{"Place":"4","Bib":"22","First Name":"Jesse","Last Name":"English","Gender":"M","Club":"Independent","Cat":"C","Laps":"3","Points":"60","Finish Time":"01:50:09.557","Gap":"+0:12.41","Start":"00:06:00.00","Lap 1":"00:28:43.05","Lap 2":"00:30:42.76","Lap 3":"00:32:43.73"},
+			{"Place":"5","Bib":"19","First Name":"Yves","Last Name":"Beaulieu","Gender":"M","Club":"River Valley Cycling Inc","Cat":"C","Laps":"3","Points":"55","Finish Time":"02:03:39.132","Gap":"+13:41.99","Start":"00:06:00.00","Lap 1":"00:32:40.88","Lap 2":"00:36:29.40","Lap 3":"00:36:28.85"}
+		]
+},
+"C (Sport)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"34","First Name":"Stephanie","Last Name":"Carter","Gender":"F","Club":"River Valley Cycling Inc","Cat":"C","Laps":"2","Points":"80","Finish Time":"01:36:19.715","Gap":"","Start":"00:06:00.00","Lap 1":"00:40:09.67","Lap 2":"00:44:10.04"}
+		]
+},
+"D (Novice)::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"17","First Name":"Pascal","Last Name":"LeBlanc","Gender":"M","Club":"VeloKent","Cat":"D","Laps":"2","Points":"80","Finish Time":"01:23:53.483","Gap":"","Start":"00:06:00.00","Lap 1":"00:36:08.68","Lap 2":"00:35:44.80"},
+			{"Place":"2","Bib":"18","First Name":"Etienne","Last Name":"Poirier","Gender":"M","Club":"VeloKent","Cat":"D","Laps":"2","Points":"70","Finish Time":"01:25:06.540","Gap":"+1:13.05","Start":"00:06:00.00","Lap 1":"00:36:08.17","Lap 2":"00:36:58.36"}
+		]
+},
+"D (Novice)::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"]
+		],
+	"results": [
+		]
+	}
+}

@@ -46,6 +46,8 @@ if ($eventdata['organizer'] == 'Velo NB') {
   <meta name="viewport" content="width=device-width, initial-scale=0.75">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>RaceLap - Results</title>
+  <script src="https://unpkg.com/react@15/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>
 <link href="/scripts/css/bootstrap.min.css" rel="stylesheet">
 <link href="/scripts/css/dataTables.bootstrap.min.css" rel="stylesheet" />
 <script src="/scripts/js/jquery-3.2.1.min.js"></script>
@@ -70,7 +72,7 @@ if ($eventdata['organizer'] == 'Velo NB') {
 </head>
 
 <body>
-
+<div id="react-load-point"></div>
 <div id="RaceLapBar">
   <a href="/"><img class="racelapLogo" src="/img/RaceLap3.png"></a>
 </div>
@@ -107,6 +109,7 @@ if ($eventdata['organizer'] == 'Velo NB') {
 </div>
 <script>
     $(document).ready(function($) {
+
       //Hold the result json
       var json_results = "";
       //Hold the result state
@@ -118,8 +121,12 @@ if ($eventdata['organizer'] == 'Velo NB') {
           dataType: 'json',
           success: function(response) {
               json_results = response;
+
               $("#eventname").append(response.event[0].name);
+
+
               $(document).attr("title", 'RaceLap | ' + response.event[0].name);
+
               $("#eventdate").append("Date: " + response.event[0].date);
               $("#eventlocation").append(response.event[0].location);
 

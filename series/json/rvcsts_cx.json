@@ -1,0 +1,69 @@
+{
+"event": [
+{
+	"name": "RVC STS - CX",
+	"date": "2018",
+	"location": "Fredericton, NB",
+	"organizer": "RVC",
+	"type": "CX",
+	"resultstatus": "Official Results",
+	"public": true
+}
+],
+"Adult::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Sébastien","Last Name":"Boudreau","Affiliation":"NB01615","Club":"The Radical Edge","W1":"60","W2":"65","W3":"70","W4":"65","Total":"260"},
+		{"Place":"2","First Name":"Samuel","Last Name":"Rioux","Affiliation":"NB01617","Club":"Independent","W1":"70","W2":"55","W3":"65","W4":"60","Total":"250"},
+		{"Place":"3","First Name":"Andre","Last Name":"Landry","Affiliation":"NB01628","Club":"Independent","W1":"0","W2":"80","W3":"80","W4":"80","Total":"240"},
+		{"Place":"4","First Name":"Christian","Last Name":"Charette","Affiliation":"NB01605","Club":"The Radical Edge","W1":"80","W2":"70","W3":"50","W4":"35","Total":"235"},
+		{"Place":"5","First Name":"Noah","Last Name":"Schwarz","Affiliation":"NB01717","Club":"The Radical Edge","W1":"55","W2":"60","W3":"60","W4":"55","Total":"230"},
+		{"Place":"6","First Name":"Daniel","Last Name":"Breau","Affiliation":"NB01604","Club":"The Radical Edge","W1":"50","W2":"50","W3":"55","W4":"50","Total":"205"},
+		{"Place":"7","First Name":"Noah","Last Name":"Lydon","Affiliation":"NB01691","Club":"The Radical Edge","W1":"48","W2":"48","W3":"44","W4":"38","Total":"178"},
+		{"Place":"8","First Name":"Jean-Marc","Last Name":"LeBlanc","Affiliation":"NB01770","Club":"The Radical Edge","W1":"39","W2":"44","W3":"38","W4":"42","Total":"163"},
+		{"Place":"9","First Name":"Yves","Last Name":"Beaulieu","Affiliation":"NB01788","Club":"River Valley Cycling Inc","W1":"40","W2":"42","W3":"37","W4":"32","Total":"151"},
+		{"Place":"10","First Name":"Sam","Last Name":"Garber","Affiliation":"NB02184","Club":"Independent","W1":"0","W2":"46","W3":"48","W4":"48","Total":"142"},
+		{"Place":"11","First Name":"Adam","Last Name":"Baxter","Affiliation":"NB01901","Club":"River Valley Cycling Inc","W1":"28","W2":"35","W3":"30","W4":"44","Total":"137"},
+		{"Place":"12","First Name":"Joel","Last Name":"Bragdon","Affiliation":"NB01803","Club":"The Radical Edge","W1":"46","W2":"0","W3":"42","W4":"46","Total":"134"},
+		{"Place":"13","First Name":"Steven","Last Name":"Taylor","Affiliation":"NB01641","Club":"River Valley Cycling Inc","W1":"27","W2":"33","W3":"29","W4":"36","Total":"125"},
+		{"Place":"14","First Name":"Paul","Last Name":"Volpe","Affiliation":"NB01718","Club":"Independent","W1":"26","W2":"37","W3":"23","W4":"37","Total":"123"},
+		{"Place":"15","First Name":"Jeff","Last Name":"Sparkes","Affiliation":"NB02082","Club":"The Radical Edge","W1":"44","W2":"30","W3":"46","W4":"0","Total":"120"},
+		{"Place":"16","First Name":"Harold","Last Name":"Lévesque","Affiliation":"NB02133","Club":"The Radical Edge","W1":"22","W2":"32","W3":"28","W4":"30","Total":"112"},
+		{"Place":"17","First Name":"Jeremy","Last Name":"Babcock","Affiliation":"NB02140","Club":"Independent","W1":"36","W2":"39","W3":"36","W4":"0","Total":"111"},
+		{"Place":"18","First Name":"Judson","Last Name":"VanDine","Affiliation":"NB01908","Club":"Savage's Bicycle Centre","W1":"35","W2":"0","W3":"34","W4":"40","Total":"109"},
+		{"Place":"19","First Name":"Patrick","Last Name":"Thebeau","Affiliation":"NB01655","Club":"River Valley Cycling Inc","W1":"24","W2":"31","W3":"26","W4":"27","Total":"108"},
+		{"Place":"20","First Name":"Adam","Last Name":"Douthwright","Affiliation":"NB02163","Club":"Millennium Cycle & Sport","W1":"42","W2":"0","W3":"40","W4":"25","Total":"107"},
+		{"Place":"22","First Name":"Araz","Last Name":"Eghbal","Affiliation":"NB02182","Club":"Independent","W1":"32","W2":"38","W3":"32","W4":"0","Total":"102"},
+		{"Place":"32","First Name":"Brian","Last Name":"McKeown","Affiliation":"NB01709","Club":"River Valley Cycling Inc","W1":"21","W2":"0","W3":"0","W4":"70","Total":"91"},
+		{"Place":"23","First Name":"Brad","Last Name":"Borgald","Affiliation":"NB01639","Club":"The Radical Edge","W1":"31","W2":"36","W3":"24","W4":"0","Total":"91"},
+		{"Place":"24","First Name":"Evan","Last Name":"Pemberton","Affiliation":"NB02076","Club":"My Bike Shop","W1":"30","W2":"0","W3":"39","W4":"0","Total":"69"},
+		{"Place":"25","First Name":"Hayden","Last Name":"McKinnon","Affiliation":"NB01834","Club":"The Radical Edge","W1":"65","W2":"0","W3":"0","W4":"0","Total":"65"},
+		{"Place":"26","First Name":"Jacob","Last Name":"Miller","Affiliation":"NB01619","Club":"River Valley Cycling","W1":"38","W2":"0","W3":"0","W4":"24","Total":"62"},
+		{"Place":"27","First Name":"Gil","Last Name":"Vautour","Affiliation":"NB01698","Club":"River Valley Cycling Inc","W1":"25","W2":"0","W3":"0","W4":"33","Total":"58"},
+		{"Place":"28","First Name":"Quinn","Last Name":"DeLong","Affiliation":"NB02181","Club":"The Radical Edge","W1":"37","W2":"0","W3":"0","W4":"0","Total":"37"},
+		{"Place":"29","First Name":"Andrew","Last Name":"Baird","Affiliation":"NB01986","Club":"The Radical Edge","W1":"34","W2":"0","W3":"0","W4":"0","Total":"34"},
+		{"Place":"21","First Name":"Keenan","Last Name":"Cook","Affiliation":"NB02129","Club":"The Radical Edge","W1":"33","W2":"0","W3":"0","W4":"0","Total":"33"},
+		{"Place":"30","First Name":"Bennet","Last Name":"McKinnon","Affiliation":"NB01826","Club":"The Radical Edge","W1":"29","W2":"0","W3":"0","W4":"0","Total":"29"},
+		{"Place":"31","First Name":"Scott","Last Name":"Dubreuil","Affiliation":"NB02161","Club":"River Valley Cycling Inc","W1":"23","W2":"0","W3":"0","W4":"0","Total":"23"}
+
+	]
+},
+"Adult::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Ella","Last Name":"Bragdon","Affiliation":"NB01747","Club":"The Radical Edge","W1":"80","W2":"80","W3":"80","W4":"80","Total":"320"},
+		{"Place":"2","First Name":"Sarah","Last Name":"Gilbert","Affiliation":"NB01777","Club":"Lorneville Cycling Club","W1":"65","W2":"65","W3":"70","W4":"70","Total":"270"},
+		{"Place":"3","First Name":"Emma","Last Name":"Volpé","Affiliation":"NB01906","Club":"Savage's Bicycle Centre","W1":"55","W2":"55","W3":"65","W4":"50","Total":"225"},
+		{"Place":"4","First Name":"Amanda","Last Name":"Lee","Affiliation":"NB01823","Club":"Lorneville Cycling Club","W1":"60","W2":"60","W3":"0","W4":"65","Total":"185"},
+		{"Place":"5","First Name":"Christy","Last Name":"Borgald","Affiliation":"NB01640","Club":"The Radical Edge","W1":"46","W2":"48","W3":"46","W4":"44","Total":"184"},
+		{"Place":"6","First Name":"Melissa","Last Name":"Bordage","Affiliation":"NB01606","Club":"The Radical Edge","W1":"50","W2":"0","W3":"60","W4":"55","Total":"165"},
+		{"Place":"7","First Name":"Wanda","Last Name":"Dixon","Affiliation":"NB02008","Club":"The Radical Edge","W1":"48","W2":"0","W3":"55","W4":"60","Total":"163"},
+		{"Place":"8","First Name":"Jackie","Last Name":"Oncescu","Affiliation":"NB02143","Club":"Independent","W1":"0","W2":"0","W3":"48","W4":"48","Total":"96"},
+		{"Place":"9","First Name":"Jane","Last Name":"Mckeown","Affiliation":"NB01700","Club":"The Radical Edge","W1":"70","W2":"0","W3":"0","W4":"0","Total":"70"}
+		]
+}
+}

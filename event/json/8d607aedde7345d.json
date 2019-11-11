@@ -1,0 +1,48 @@
+{
+"event": [
+{
+	"name": "Youth Short Track - Week 2",
+	"date": "Aug 21, 2018",
+	"location": "Fredericton, NB",
+	"commissaire": "Christian Charette",
+	"participant": "18",
+	"resultstatus": "Official Results",
+	"organizer": "RVC",
+	"type": "XCO",
+	"public": true,
+	"fid": "8d607aedde7345d"
+}
+],
+"Youth::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"10","First Name":"William","Last Name":"Carmichael","VNBAffiliation":"NB02050","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"Youth","Laps":"4","Points":"80","Finish Time":"00:45:28.700","Gap":"","Start":"00:00:00.00","Lap 1":"00:10:45.88","Lap 2":"00:11:30.43","Lap 3":"00:11:36.96","Lap 4":"00:11:35.40"},
+			{"Place":"2","Bib":"6","First Name":"Jack","Last Name":"Toner","VNBAffiliation":"NB01975","UCIAffiliation":"","Gender":"M","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"3","Points":"70","Finish Time":"00:36:23.385","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:15.61","Lap 2":"00:12:12.60","Lap 3":"00:12:55.16","Lap 4":""},
+			{"Place":"3","Bib":"8","First Name":"Kaj","Last Name":"Jones","VNBAffiliation":"NB01996","UCIAffiliation":"","Gender":"M","Club":"The Radical Edge","Cat":"Youth","Laps":"3","Points":"65","Finish Time":"00:39:44.239","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:11:30.68","Lap 2":"00:12:13.55","Lap 3":"00:15:59.99","Lap 4":""},
+			{"Place":"4","Bib":"12","First Name":"Ian","Last Name":"Carmichael","VNBAffiliation":"NB02120","UCIAffiliation":"","Gender":"M","Club":"Abony Family Tennis Center","Cat":"Youth","Laps":"3","Points":"60","Finish Time":"00:43:05.933","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:13:11.25","Lap 2":"00:14:16.33","Lap 3":"00:15:38.35","Lap 4":""},
+			{"Place":"5","Bib":"7","First Name":"Rein","Last Name":"Jones","VNBAffiliation":"NB01997","UCIAffiliation":"","Gender":"M","Club":"The Radical Edge","Cat":"Youth","Laps":"2","Points":"55","Finish Time":"00:27:43.698","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:13:13.53","Lap 2":"00:14:30.16","Lap 3":"","Lap 4":""},
+			{"Place":"6","Bib":"13","First Name":"Aidan","Last Name":"Tower","VNBAffiliation":"NB02125","UCIAffiliation":"","Gender":"M","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"2","Points":"50","Finish Time":"00:33:52.439","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:16:08.95","Lap 2":"00:17:43.48","Lap 3":"","Lap 4":""},
+			{"Place":"7","Bib":"16","First Name":"Jack","Last Name":"Taylor","VNBAffiliation":"NB02156","UCIAffiliation":"","Gender":"M","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"2","Points":"48","Finish Time":"00:36:36.075","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:17:29.90","Lap 2":"00:19:06.16","Lap 3":"","Lap 4":""},
+			{"Place":"8","Bib":"17","First Name":"Gabe","Last Name":"Arseneau","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"Youth","Laps":"2","Points":"46","Finish Time":"00:37:19.973","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:17:47.82","Lap 2":"00:19:32.14","Lap 3":"","Lap 4":""},
+			{"Place":"9","Bib":"14","First Name":"Brandon","Last Name":"Tower","VNBAffiliation":"NB02126","UCIAffiliation":"","Gender":"M","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"2","Points":"44","Finish Time":"00:40:49.394","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:18:23.31","Lap 2":"00:22:26.08","Lap 3":"","Lap 4":""},
+			{"Place":"10","Bib":"27","First Name":"Will","Last Name":"Bower","VNBAffiliation":"","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"Youth","Laps":"2","Points":"42","Finish Time":"00:45:43.728","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:20:51.37","Lap 2":"00:24:52.35","Lap 3":"","Lap 4":""},
+			{"Place":"11","Bib":"15","First Name":"Noah","Last Name":"Boudreau","VNBAffiliation":"NB02153","UCIAffiliation":"","Gender":"M","Club":"Independent","Cat":"Youth","Laps":"1","Points":"40","Finish Time":"00:14:26.633","Gap":"-3 Laps","Start":"00:00:00.00","Lap 1":"00:14:26.63","Lap 2":"","Lap 3":"","Lap 4":""},
+			{"Place":"12","Bib":"26","First Name":"Hayden","Last Name":"Sparkes","VNBAffiliation":"NB02093","UCIAffiliation":"","Gender":"M","Club":"The Radical Edge","Cat":"Youth","Laps":"1","Points":"39","Finish Time":"00:16:41.892","Gap":"-3 Laps","Start":"00:00:00.00","Lap 1":"00:16:41.89","Lap 2":"","Lap 3":"","Lap 4":""}
+		]
+},
+"Youth::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"]
+		],
+	"results": [
+			{"Place":"1","Bib":"21","First Name":"Mattea","Last Name":"McNair","VNBAffiliation":"NB01764","UCIAffiliation":"","Gender":"F","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"3","Points":"80","Finish Time":"00:40:32.122","Gap":"","Start":"00:00:00.00","Lap 1":"00:13:03.77","Lap 2":"00:13:28.89","Lap 3":"00:13:59.45"},
+			{"Place":"2","Bib":"25","First Name":"Katie","Last Name":"Carmichael","VNBAffiliation":"NB02121","UCIAffiliation":"","Gender":"F","Club":"Abony Family Tennis Center","Cat":"Youth","Laps":"3","Points":"70","Finish Time":"00:40:51.490","Gap":"+0:19.36","Start":"00:00:00.00","Lap 1":"00:13:06.55","Lap 2":"00:13:33.18","Lap 3":"00:14:11.74"},
+			{"Place":"3","Bib":"24","First Name":"Lily-Jane","Last Name":"Sparkes","VNBAffiliation":"NB02092","UCIAffiliation":"","Gender":"F","Club":"The Radical Edge","Cat":"Youth","Laps":"3","Points":"65","Finish Time":"00:43:29.475","Gap":"+2:57.35","Start":"00:00:00.00","Lap 1":"00:13:13.97","Lap 2":"00:14:35.84","Lap 3":"00:15:39.65"},
+			{"Place":"4","Bib":"23","First Name":"Katie","Last Name":"Bower","VNBAffiliation":"NB02027","UCIAffiliation":"","Gender":"F","Club":"The Radical Edge","Cat":"Youth","Laps":"3","Points":"60","Finish Time":"00:45:53.650","Gap":"+5:21.52","Start":"00:00:00.00","Lap 1":"00:13:25.71","Lap 2":"00:15:14.38","Lap 3":"00:17:13.54"},
+			{"Place":"5","Bib":"28","First Name":"Mia","Last Name":"Baxter","VNBAffiliation":"NB02142","UCIAffiliation":"","Gender":"F","Club":"River Valley Cycling Inc","Cat":"Youth","Laps":"2","Points":"55","Finish Time":"00:36:54.921","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:17:37.97","Lap 2":"00:19:16.94","Lap 3":""},
+			{"Place":"6","Bib":"29","First Name":"Lindsay","Last Name":"Carmichael","VNBAffiliation":"","UCIAffiliation":"","Gender":"F","Club":"Independent","Cat":"Youth","Laps":"1","Points":"50","Finish Time":"00:20:55.305","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:20:55.30","Lap 2":"","Lap 3":""}
+		]
+	}
+}

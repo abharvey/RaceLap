@@ -1,0 +1,82 @@
+{
+"event": [
+{
+	"name": "RVC STS",
+	"date": "2019",
+	"location": "Fredericton, NB",
+	"organizer": "RVC",
+	"type": "XCC",
+	"resultstatus": "Official Results",
+	"public": true
+}
+],
+"Adult::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Total"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Christian","Last Name":"Charette","VNBAffiliation":"NB01605","UCIAffiliation":"10054707879","Club":"The Radical Edge","Total":"500","Points":"8d71c1b0a3b4524::125|8d7219a0b658cd4::125|8d7271f2eae5a7a::125|8d73217aaa3b0bc::125"},
+			{"Place":"2","First Name":"Daniel","Last Name":"Breau","VNBAffiliation":"NB01642","UCIAffiliation":"10051734427","Club":"The Radical Edge","Total":"355","Points":"8d71c1b0a3b4524::80|8d7219a0b658cd4::100|8d7271f2eae5a7a::100|8d73217aaa3b0bc::75"},
+			{"Place":"3","First Name":"Brian","Last Name":"McKeown","VNBAffiliation":"NB02179","UCIAffiliation":"10003938685","Club":"The Radical Edge","Total":"280","Points":"8d71c1b0a3b4524::100|8d7219a0b658cd4::80|8d73217aaa3b0bc::100"},
+			{"Place":"4","First Name":"Eric","Last Name":"Garland","VNBAffiliation":"NB02162","UCIAffiliation":"0","Club":"The Radical Edge","Total":"230","Points":"8d71c1b0a3b4524::55|8d7219a0b658cd4::70|8d7271f2eae5a7a::55|8d73217aaa3b0bc::50"},
+			{"Place":"5","First Name":"Jacob","Last Name":"Miller","VNBAffiliation":"NB01658","UCIAffiliation":"0","Club":"Independent","Total":"230","Points":"8d71c1b0a3b4524::50|8d7219a0b658cd4::60|8d7271f2eae5a7a::60|8d73217aaa3b0bc::60"},
+			{"Place":"6","First Name":"Paul","Last Name":"Cook","VNBAffiliation":"NB01783","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"225","Points":"8d71c1b0a3b4524::60|8d7219a0b658cd4::65|8d7271f2eae5a7a::45|8d73217aaa3b0bc::55"},
+			{"Place":"7","First Name":"Noah","Last Name":"Schwarz","VNBAffiliation":"NB01965","UCIAffiliation":"10077322522","Club":"The Radical Edge","Total":"220","Points":"8d71c1b0a3b4524::65|8d7271f2eae5a7a::75|8d73217aaa3b0bc::80"},
+			{"Place":"8","First Name":"Noah","Last Name":"Lydon","VNBAffiliation":"NB01676","UCIAffiliation":"10061101593","Club":"The Radical Edge","Total":"215","Points":"8d71c1b0a3b4524::70|8d7271f2eae5a7a::80|8d73217aaa3b0bc::65"},
+			{"Place":"9","First Name":"Jason","Last Name":"Stymiest","VNBAffiliation":"NB02161","UCIAffiliation":"0","Club":"The Radical Edge","Total":"155","Points":"8d71c1b0a3b4524::35|8d7219a0b658cd4::75|8d73217aaa3b0bc::45"},
+			{"Place":"10","First Name":"Philip","Last Name":"Moravcik","VNBAffiliation":"NB01862","UCIAffiliation":"10082147967","Club":"Independent","Total":"140","Points":"8d7271f2eae5a7a::70|8d73217aaa3b0bc::70"},
+			{"Place":"11","First Name":"Judson","Last Name":"VanDine","VNBAffiliation":"NB01650","UCIAffiliation":"0","Club":"Savage's Bicycle Centre","Total":"132","Points":"8d71c1b0a3b4524::29|8d7219a0b658cd4::45|8d7271f2eae5a7a::23|8d73217aaa3b0bc::35"},
+			{"Place":"12","First Name":"Evan","Last Name":"Pemberton","VNBAffiliation":"NB01768","UCIAffiliation":"0","Club":"My Bike Shop","Total":"131","Points":"8d71c1b0a3b4524::26|8d7219a0b658cd4::50|8d7271f2eae5a7a::27|8d73217aaa3b0bc::28"},
+			{"Place":"13","First Name":"Paul","Last Name":"West","VNBAffiliation":"NB02115","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"128","Points":"8d71c1b0a3b4524::28|8d7219a0b658cd4::35|8d7271f2eae5a7a::35|8d73217aaa3b0bc::30"},
+			{"Place":"14","First Name":"Harold","Last Name":"Levesque","VNBAffiliation":"NB01984","UCIAffiliation":"0","Club":"The Radical Edge","Total":"111","Points":"8d71c1b0a3b4524::27|8d7219a0b658cd4::30|8d7271f2eae5a7a::28|8d73217aaa3b0bc::26"},
+			{"Place":"15","First Name":"James","Last Name":"Hannon","VNBAffiliation":"NB02175","UCIAffiliation":"0","Club":"Independent","Total":"105","Points":"8d71c1b0a3b4524::40|8d7271f2eae5a7a::65"},
+			{"Place":"16","First Name":"Mike","Last Name":"Hutcinson","VNBAffiliation":"NB02171","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"104","Points":"8d71c1b0a3b4524::22|8d7219a0b658cd4::55|8d73217aaa3b0bc::27"},
+			{"Place":"17","First Name":"Stefan","Last Name":"Kruse","VNBAffiliation":"NB02169","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"95","Points":"8d71c1b0a3b4524::23|8d7219a0b658cd4::26|8d7271f2eae5a7a::21|8d73217aaa3b0bc::25"},
+			{"Place":"18","First Name":"Paul","Last Name":"Volpé","VNBAffiliation":"NB02027","UCIAffiliation":"0","Club":"Savage's Bicycle Centre","Total":"94","Points":"8d71c1b0a3b4524::24|8d7219a0b658cd4::28|8d7271f2eae5a7a::18|8d73217aaa3b0bc::24"},
+			{"Place":"19","First Name":"Adam","Last Name":"Baxter","VNBAffiliation":"NB02122","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"85","Points":"8d7219a0b658cd4::27|8d7271f2eae5a7a::29|8d73217aaa3b0bc::29"},
+			{"Place":"20","First Name":"Brad","Last Name":"Borgald","VNBAffiliation":"NB02125","UCIAffiliation":"0","Club":"The Radical Edge","Total":"77","Points":"8d7219a0b658cd4::29|8d7271f2eae5a7a::30|8d73217aaa3b0bc::18"},
+			{"Place":"21","First Name":"Ryan","Last Name":"Muir","VNBAffiliation":"NB01830","UCIAffiliation":"0","Club":"Millennium Cycle & Sport","Total":"75","Points":"8d71c1b0a3b4524::75"},
+			{"Place":"22","First Name":"Yves","Last Name":"Beaulieu","VNBAffiliation":"NB01607","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"70","Points":"8d71c1b0a3b4524::30|8d73217aaa3b0bc::40"},
+			{"Place":"23","First Name":"Steven","Last Name":"Taylor","VNBAffiliation":"NB01638","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"67","Points":"8d7219a0b658cd4::24|8d7271f2eae5a7a::20|8d73217aaa3b0bc::23"},
+			{"Place":"24","First Name":"Greg","Last Name":"Lydon","VNBAffiliation":"NM00001","UCIAffiliation":"0","Club":"Independent","Total":"65","Points":"8d71c1b0a3b4524::20|8d7271f2eae5a7a::24|8d73217aaa3b0bc::21"},
+			{"Place":"25","First Name":"Gil","Last Name":"Vautour","VNBAffiliation":"NB01639","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"64","Points":"8d7219a0b658cd4::25|8d7271f2eae5a7a::17|8d73217aaa3b0bc::22"},
+			{"Place":"26","First Name":"Samuel","Last Name":"Renault","VNBAffiliation":"NB02174","UCIAffiliation":"0","Club":"The Radical Edge","Total":"64","Points":"8d71c1b0a3b4524::45|8d73217aaa3b0bc::19"},
+			{"Place":"27","First Name":"Jamie","Last Name":"Bird","VNBAffiliation":"NM00002","UCIAffiliation":"","Club":"Independent","Total":"62","Points":"8d7219a0b658cd4::23|8d7271f2eae5a7a::19|8d73217aaa3b0bc::20"},
+			{"Place":"28","First Name":"Samuel","Last Name":"Mason","VNBAffiliation":"NB01970","UCIAffiliation":"0","Club":"Independent","Total":"51","Points":"8d71c1b0a3b4524::25|8d7271f2eae5a7a::26"},
+			{"Place":"29","First Name":"Jeremy","Last Name":"Babcock","VNBAffiliation":"NB02180","UCIAffiliation":"0","Club":"Independent","Total":"50","Points":"8d7271f2eae5a7a::50"},
+			{"Place":"30","First Name":"Chris","Last Name":"Foster","VNBAffiliation":"NB01770","UCIAffiliation":"10051734326","Club":"River Valley Cycling Inc","Total":"43","Points":"8d71c1b0a3b4524::21|8d7271f2eae5a7a::22"},
+			{"Place":"31","First Name":"Keenan","Last Name":"Cook","VNBAffiliation":"NB02120","UCIAffiliation":"0","Club":"The Radical Edge","Total":"40","Points":"8d7271f2eae5a7a::40"},
+			{"Place":"32","First Name":"Quinn","Last Name":"DeLong","VNBAffiliation":"NB01858","UCIAffiliation":"0","Club":"The Radical Edge","Total":"40","Points":"8d7219a0b658cd4::40"},
+			{"Place":"33","First Name":"Patrick","Last Name":"Thebeau","VNBAffiliation":"NB01631","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"38","Points":"8d7219a0b658cd4::22|8d7271f2eae5a7a::16"},
+			{"Place":"34","First Name":"Tyler","Last Name":"Northrup","VNBAffiliation":"NB02035","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"25","Points":"8d7271f2eae5a7a::25"},
+			{"Place":"35","First Name":"Ethan","Last Name":"MacLeod","VNBAffiliation":"NB01817","UCIAffiliation":"0","Club":"Independent","Total":"19","Points":"8d71c1b0a3b4524::19"}
+		]
+},
+"Adult::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Total"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Ella","Last Name":"Bragdon","VNBAffiliation":"NB01769","UCIAffiliation":"10061080274","Club":"Project Dialed In","Total":"375","Points":"8d71c1b0a3b4524::125|8d7271f2eae5a7a::125|8d73217aaa3b0bc::125"},
+			{"Place":"2","First Name":"Jane","Last Name":"Mckeown","VNBAffiliation":"NB02168","UCIAffiliation":"10003938786","Club":"The Radical Edge","Total":"325","Points":"8d71c1b0a3b4524::100|8d7219a0b658cd4::125|8d73217aaa3b0bc::100"},
+			{"Place":"3","First Name":"Rachel","Last Name":"Garland","VNBAffiliation":"NB02163","UCIAffiliation":"0","Club":"The Radical Edge","Total":"305","Points":"8d71c1b0a3b4524::80|8d7219a0b658cd4::80|8d7271f2eae5a7a::65|8d73217aaa3b0bc::80"},
+			{"Place":"4","First Name":"Melissa","Last Name":"Bordage","VNBAffiliation":"NB01606","UCIAffiliation":"10050681066","Club":"The Radical Edge","Total":"300","Points":"8d71c1b0a3b4524::40|8d7219a0b658cd4::100|8d7271f2eae5a7a::100|8d73217aaa3b0bc::60"},
+			{"Place":"5","First Name":"Melyssa","Last Name":"Hutchinson","VNBAffiliation":"NB02166","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"300","Points":"8d71c1b0a3b4524::75|8d7219a0b658cd4::70|8d7271f2eae5a7a::80|8d73217aaa3b0bc::75"},
+			{"Place":"6","First Name":"Rosanna","Last Name":"Lamb","VNBAffiliation":"NB02170","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"215","Points":"8d71c1b0a3b4524::70|8d7219a0b658cd4::75|8d73217aaa3b0bc::70"},
+			{"Place":"7","First Name":"Marcie","Last Name":"Wall","VNBAffiliation":"NB02177","UCIAffiliation":"0","Club":"Independent","Total":"195","Points":"8d71c1b0a3b4524::65|8d7219a0b658cd4::65|8d73217aaa3b0bc::65"},
+			{"Place":"8","First Name":"Fiona","Last Name":"Bragdon","VNBAffiliation":"NB01654","UCIAffiliation":"0","Club":"The Radical Edge","Total":"164","Points":"8d71c1b0a3b4524::60|8d7271f2eae5a7a::75|8d73217aaa3b0bc::29"},
+			{"Place":"9","First Name":"Wanda","Last Name":"Dixon","VNBAffiliation":"NB01846","UCIAffiliation":"0","Club":"The Radical Edge","Total":"160","Points":"8d71c1b0a3b4524::45|8d7271f2eae5a7a::60|8d73217aaa3b0bc::55"},
+			{"Place":"10","First Name":"Christy","Last Name":"Borgald","VNBAffiliation":"NB01641","UCIAffiliation":"10055029801","Club":"The Radical Edge","Total":"140","Points":"8d7219a0b658cd4::50|8d7271f2eae5a7a::50|8d73217aaa3b0bc::40"},
+			{"Place":"11","First Name":"Kelly","Last Name":"Murray","VNBAffiliation":"NB01660","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"125","Points":"8d71c1b0a3b4524::55|8d7271f2eae5a7a::70"},
+			{"Place":"12","First Name":"Heidi","Last Name":"Taylor","VNBAffiliation":"NB01697","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"120","Points":"8d7219a0b658cd4::45|8d7271f2eae5a7a::45|8d73217aaa3b0bc::30"},
+			{"Place":"13","First Name":"Marie Eve","Last Name":"Fillion","VNBAffiliation":"NB01608","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"100","Points":"8d7271f2eae5a7a::55|8d73217aaa3b0bc::45"},
+			{"Place":"14","First Name":"Monique","Last Name":"Savoie","VNBAffiliation":"NB01800","UCIAffiliation":"0","Club":"The Radical Edge","Total":"75","Points":"8d71c1b0a3b4524::35|8d7271f2eae5a7a::40"},
+			{"Place":"15","First Name":"Stephanie","Last Name":"Baxter","VNBAffiliation":"NB02160","UCIAffiliation":"10096803859","Club":"The Radical Edge","Total":"60","Points":"8d7219a0b658cd4::60"},
+			{"Place":"16","First Name":"Jackie","Last Name":"Oncescu","VNBAffiliation":"NB01657","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"55","Points":"8d7219a0b658cd4::55"},
+			{"Place":"17","First Name":"Claire","Last Name":"Jardine","VNBAffiliation":"NM00004","UCIAffiliation":"","Club":"Independent","Total":"50","Points":"8d73217aaa3b0bc::50"},
+			{"Place":"18","First Name":"Jessica","Last Name":"Hayes","VNBAffiliation":"NB02178","UCIAffiliation":"0","Club":"River Valley Cycling Inc","Total":"50","Points":"8d71c1b0a3b4524::50"},
+			{"Place":"19","First Name":"Lisa","Last Name":"Mckinnon","VNBAffiliation":"NM00003","UCIAffiliation":"","Club":"Independent","Total":"35","Points":"8d7271f2eae5a7a::35"},
+			{"Place":"20","First Name":"Mary Ellen","Last Name":"Etheridge","VNBAffiliation":"NM00005","UCIAffiliation":"","Club":"Independent","Total":"35","Points":"8d73217aaa3b0bc::35"}
+		]
+	}
+}

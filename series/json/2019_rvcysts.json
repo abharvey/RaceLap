@@ -1,0 +1,59 @@
+{
+"event": [
+{
+	"name": "RVC Youth STS",
+	"date": "2019",
+	"location": "Fredericton, NB",
+	"organizer": "RVC",
+	"type": "XCC",
+	"resultstatus": "Official Results",
+	"public": true
+}
+],
+"Youth::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Ivanhoé","Last Name":"Corriveau","Affiliation":"NB01944","Club":"GOYBAR","W1":"100","W2":"80","W3":"125","W4":"","Total":"305"},
+		{"Place":"2","First Name":"Kaj","Last Name":"Jones","Affiliation":"NB01925","Club":"GOYBAR","W1":"80","W2":"100","W3":"100","W4":"","Total":"280"},
+		{"Place":"3","First Name":"Rein","Last Name":"Jones","Affiliation":"NB01924","Club":"GOYBAR","W1":"125","W2":"35","W3":"80","W4":"","Total":"240"},
+		{"Place":"4","First Name":"Mattais","Last Name":"de Jong","Affiliation":"NB02050","Club":"Independent","W1":"65","W2":"70","W3":"70","W4":"","Total":"205"},
+		{"Place":"5","First Name":"Aidan","Last Name":"Tower","Affiliation":"NB02066","Club":"River Valley Cycling Inc","W1":"60","W2":"60","W3":"55","W4":"","Total":"175"},
+		{"Place":"6","First Name":"Jack","Last Name":"Allard","Affiliation":"NB02057","Club":"Savage's","W1":"45","W2":"50","W3":"65","W4":"","Total":"160"},
+		{"Place":"7","First Name":"Brandon","Last Name":"Tower","Affiliation":"NB02065","Club":"River Valley Cycling Inc","W1":"55","W2":"55","W3":"40","W4":"","Total":"150"},
+		{"Place":"8","First Name":"Ian ","Last Name":"Carmicheal","Affiliation":"NB01946","Club":"GOYBAR","W1":"75","W2":"0","W3":"75","W4":"","Total":"150"},
+		{"Place":"9","First Name":"Nayan","Last Name":"Orfei","Affiliation":"NB02128","Club":"Independent","W1":"70","W2":"75","W3":"0","W4":"","Total":"145"},
+		{"Place":"10","First Name":"Joshua","Last Name":"Duff","Affiliation":"","Club":"Independent","W1":"50","W2":"40","W3":"45","W4":"","Total":"135"},
+		{"Place":"11","First Name":"Bennet","Last Name":"McKinnon","Affiliation":"NB02142","Club":"The Radical Edge","W1":"0","W2":"125","W3":"0","W4":"","Total":"125"},
+		{"Place":"12","First Name":"Caleb","Last Name":"Abernethy","Affiliation":"NB02006","Club":"GOYBAR","W1":"0","W2":"45","W3":"60","W4":"","Total":"105"},
+		{"Place":"13","First Name":"Caleb","Last Name":"Mcallister","Affiliation":"","Club":"Independent","W1":"35","W2":"65","W3":"0","W4":"","Total":"100"},
+		{"Place":"14","First Name":"Josef","Last Name":"Derrah","Affiliation":"NB02126","Club":"River Valley Cycling Inc","W1":"29","W2":"28","W3":"35","W4":"","Total":"92"},
+		{"Place":"15","First Name":"John","Last Name":"McCann","Affiliation":"NB02051","Club":"River Valley Cycling Inc","W1":"26","W2":"26","W3":"28","W4":"","Total":"80"},
+		{"Place":"16","First Name":"Matthew","Last Name":"Armstrong","Affiliation":"NB02045","Club":"Independent","W1":"27","W2":"25","W3":"27","W4":"","Total":"79"},
+		{"Place":"17","First Name":"Gabrio Bien","Last Name":"Banquicio","Affiliation":"NB02131","Club":"Independent","W1":"28","W2":"24","W3":"26","W4":"","Total":"78"},
+		{"Place":"18","First Name":"Jack","Last Name":"Taylor","Affiliation":"NB02113","Club":"River Valley Cycling Inc","W1":"40","W2":"30","W3":"0","W4":"","Total":"70"},
+		{"Place":"19","First Name":"Arthur","Last Name":"Breau","Affiliation":"NB02129","Club":"Independent","W1":"30","W2":"0","W3":"30","W4":"","Total":"60"},
+		{"Place":"20","First Name":"Andrew","Last Name":"Bradbury","Affiliation":"","Club":"Independent","W1":"0","W2":"0","W3":"50","W4":"","Total":"50"},
+		{"Place":"22","First Name":"Julian","Last Name":"Tinholt","Affiliation":"","Club":"Independent","W1":"0","W2":"0","W3":"29","W4":"","Total":"29"},
+		{"Place":"23","First Name":"Liam","Last Name":"Mooers","Affiliation":"","Club":"Independent","W1":"0","W2":"29","W3":"0","W4":"","Total":"29"},
+		{"Place":"24","First Name":"Garrett","Last Name":"George","Affiliation":"","Club":"Independent","W1":"0","W2":"27","W3":"0","W4":"","Total":"27"}
+	]
+},
+"Youth::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["W1"],["W2"],["W3"],["W4"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Ava","Last Name":"Quigley","Affiliation":"NB02130","Club":"GOYBAR","W1":"100","W2":"80","W3":"100","W4":"","Total":"280"},
+		{"Place":"2","First Name":"Emma","Last Name":"Volpé","Affiliation":"NB02031","Club":"Savage's Bicycle Centre","W1":"125","W2":"125","W3":"0","W4":"","Total":"250"},
+		{"Place":"3","First Name":"Nessa","Last Name":"Quigley","Affiliation":"NB02028","Club":"GOYBAR","W1":"80","W2":"75","W3":"75","W4":"","Total":"230"},
+		{"Place":"4","First Name":"Mattea","Last Name":"McNair","Affiliation":"NB01826","Club":"GOYBAR","W1":"0","W2":"100","W3":"125","W4":"","Total":"225"},
+		{"Place":"5","First Name":"Clara","Last Name":"Breau","Affiliation":"NB01928","Club":"GOYBAR","W1":"75","W2":"0","W3":"80","W4":"","Total":"155"},
+		{"Place":"6","First Name":"Mia","Last Name":"Baxter","Affiliation":"NB01953","Club":"River Valley Cycling Inc","W1":"70","W2":"70","W3":"0","W4":"","Total":"140"},
+		{"Place":"7","First Name":"Madeleine","Last Name":"Folmer","Affiliation":"","Club":"Independent","W1":"0","W2":"65","W3":"70","W4":"","Total":"135"},
+		{"Place":"8","First Name":"Katie","Last Name":"Carmichael","Affiliation":"NB01943","Club":"GOYBAR","W1":"0","W2":"0","W3":"65","W4":"","Total":"65"},
+		{"Place":"9","First Name":"Lindsay","Last Name":"Carmichael","Affiliation":"","Club":"","W1":"0","W2":"0","W3":"60","W4":"","Total":"60"}
+	]
+}
+}
