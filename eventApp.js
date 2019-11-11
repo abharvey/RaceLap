@@ -9,11 +9,15 @@ const EventDetails = props => {
     null,
     object
       .Keys(eventDetails)
-      .filter(key => key != "name")
+      .filter(key => !["name", "location"].includes(key))
       .map(key =>
         React.createElement("span", null, `${key}: ${eventDetails[key]}`)
       )
   );
+};
+
+const CategoryTable = props => {
+  return null;
 };
 
 class EventPage extends React.Component {
@@ -27,12 +31,12 @@ class EventPage extends React.Component {
     this.state = {
       event: {
         name: "",
-        date: "",
+        Date: "",
         location: "",
-        commissaire: "",
-        participantCount: "",
-        resultstatus: "",
-        organizer: "",
+        Commissaire: "",
+        Participants: "",
+        Status: "",
+        "Race Series": "",
         type: ""
       },
       categories: [
