@@ -48,6 +48,7 @@ if ($eventdata['organizer'] == 'Velo NB') {
   <title>RaceLap - Results</title>
 <link href="/scripts/css/bootstrap.min.css" rel="stylesheet">
 <link href="/scripts/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/eventPage.css" rel="stylesheet" />
 <script src="/scripts/js/jquery-3.2.1.min.js"></script>
 <script src="/scripts/js/jquery.dataTables.min.js"></script>
 <script src="/scripts/js/dataTables.bootstrap.min.js"></script>

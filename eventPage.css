@@ -1,0 +1,14 @@
+.details-btn {
+  background-color: #5cb85c;
+  border: 1px solid transparent;
+  color: #fff;
+  align-self: flex-end;
+  font-weight: 400;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.details-btn:hover {
+  background-color: #309230;
+}
