@@ -39,32 +39,19 @@ const ParticipantRow = props => {
 };
 
 const CategoryTable = props => {
-  return null;
+  return React.createElement("");
 };
 
 const EventHeader = ({ name, location }) =>
-  React.createElement(
-    "h1",
-    {
-      style: {
-        borderBottom: "1px solid #eee",
-        display: "flex",
-        flexDirection: "row"
-      }
-    },
-    [
-      React.createElement("span", { key: "name-header" }, `${name} `),
-      React.createElement("small", { key: "location-header" }, location),
-      React.createElement(
-        "button",
-        {
-          key: "details-btn",
-          className: "details-btn"
-        },
-        "Detailed Results"
-      )
-    ]
-  );
+  React.createElement("h1", { className: "event-header" }, [
+    React.createElement("span", { key: "name-header" }, `${name} `),
+    React.createElement("small", { key: "location-header" }, location),
+    React.createElement(
+      "button",
+      { key: "details-btn", className: "details-btn" },
+      "Detailed Results"
+    )
+  ]);
 
 class EventPage extends React.Component {
   constructor(props) {
@@ -76,18 +63,28 @@ class EventPage extends React.Component {
 
     this.state = {
       event: {},
-      categories: [
-        {
-          title: "",
-          subtitle: ""
-        }
-      ],
+      categories: [],
       participants: [{}]
     };
   }
 
   handleDataLoad(e) {
-    this.setState({ event: e.detail.eventData.event[0] });
+    const event = e.detail.eventData.event[0];
+
+    const categories = Object.keys(e.detail.eventData).filter(
+      key => key !== "event"
+    );
+
+    const participants = categories.reduce((cat, categorizedRiders) => {
+      categorizedRiders[cat] = e.detail.eventData[cat].results;
+      return categorizedRiders;
+    }, {});
+
+    this.setState({
+      event,
+      categories,
+      participants
+    });
   }
 
   render() {
