@@ -1,4 +1,6 @@
 /* REACT LOADING */
+"use strict";
+
 const participantsByCategory = (category, participants = []) =>
   participants.filter(p => category.includes(p.cat));
 
@@ -75,7 +77,7 @@ class EventPage extends React.Component {
       key => key !== "event"
     );
 
-    const participants = categories.reduce((cat, categorizedRiders) => {
+    const participants = categories.reduce((categorizedRiders, cat) => {
       categorizedRiders[cat] = e.detail.eventData[cat].results;
       return categorizedRiders;
     }, {});
@@ -94,9 +96,10 @@ class EventPage extends React.Component {
     } = this.state;
 
     return React.createElement("div", null, [
-      React.createElement(EventHeader, { name, location }),
+      React.createElement(EventHeader, { name, location, key: "header-key" }),
       React.createElement(EventDetails, {
-        eventDetails: this.state.event
+        eventDetails: this.state.event,
+        key: "details-key"
       })
     ]);
   }
