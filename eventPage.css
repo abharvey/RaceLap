@@ -18,3 +18,11 @@
   display: flex;
   flex-direction: row;
 }
+
+.tbody > .table-row:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+
+.table-cell {
+  min-width: 120px;
+}

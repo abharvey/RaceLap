@@ -36,12 +36,70 @@ const EventDetails = ({ eventDetails }) =>
     )
   );
 
+const removeResults = [];
+
+//TODO: use a stateful "detailed results" to add a column filter
 const ParticipantRow = props => {
-  return null;
+  return React.createElement("tr", { className: "table-row" }, [
+    props.columnHeaders.map(header =>
+      React.createElement(
+        "td",
+        { key: header, className: "table-cell" },
+        `${props.rider[header]}`
+      )
+    )
+  ]);
+};
+
+const HeaderRow = props => {
+  return React.createElement(
+    "thead",
+    null,
+    React.createElement("tr", { className: "table-row" }, [
+      props.columnHeaders.map(header =>
+        React.createElement("th", { className: "table-cell" }, header)
+      )
+    ])
+  );
 };
 
 const CategoryTable = props => {
-  return React.createElement("");
+  const tableHeaders = props.cat.split("::");
+  const columnHeaders = Object.keys(props.riders[0] || {});
+  console.log(columnHeaders);
+
+  return React.createElement("div", { className: "category-table" }, [
+    React.createElement(
+      "h3",
+      { key: "cat-header", className: "category-header" },
+      [
+        React.createElement(
+          "span",
+          { key: "category-name" },
+          `${tableHeaders[0]} `
+        ),
+        React.createElement(
+          "small",
+          { key: "cat-sub-name" },
+          `${tableHeaders[1]} `
+        )
+      ]
+    ),
+    React.createElement("table", { key: "cat-table" }, [
+      React.createElement(HeaderRow, { columnHeaders, key: "header-row" }),
+      React.createElement(
+        "tbody",
+        { key: "table-body" },
+        props.riders.map(rider =>
+          React.createElement(ParticipantRow, {
+            columnHeaders,
+            rider,
+            key: rider["Place"]
+          })
+        )
+      )
+    ])
+  ]);
 };
 
 const EventHeader = ({ name, location }) =>
@@ -66,16 +124,15 @@ class EventPage extends React.Component {
     this.state = {
       event: {},
       categories: [],
-      participants: [{}]
+      participants: {}
     };
   }
 
   handleDataLoad(e) {
-    const event = e.detail.eventData.event[0];
+    const data = { ...e.detail.eventData };
+    const event = { ...e.detail.eventData.event[0] };
 
-    const categories = Object.keys(e.detail.eventData).filter(
-      key => key !== "event"
-    );
+    const categories = Object.keys(data).filter(key => key !== "event");
 
     const participants = categories.reduce((categorizedRiders, cat) => {
       categorizedRiders[cat] = e.detail.eventData[cat].results;
@@ -91,8 +148,10 @@ class EventPage extends React.Component {
 
   render() {
     const {
+      categories,
       event,
-      event: { name, location }
+      event: { name, location },
+      participants
     } = this.state;
 
     return React.createElement("div", null, [
@@ -100,7 +159,14 @@ class EventPage extends React.Component {
       React.createElement(EventDetails, {
         eventDetails: this.state.event,
         key: "details-key"
-      })
+      }),
+      ...categories.map(cat =>
+        React.createElement(CategoryTable, {
+          cat,
+          key: cat,
+          riders: participants[cat]
+        })
+      )
     ]);
   }
 }
