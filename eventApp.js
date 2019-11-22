@@ -36,18 +36,54 @@ const EventDetails = ({ eventDetails }) =>
     )
   );
 
-const removeResults = [];
+const skipColumns = [
+  "First Name",
+  "Last Name",
+  "Gender",
+  "Cat",
+  "UCIAffiliation"
+];
+
+const quickResultColumns = ["Place", "Name", "Club", "Finish Time"];
+const priorityColumns = ["Place", "Bib", "Name", "VNBAffiliation", "Club"];
+
+const columnIsNotPrioritized = col => priorityColumns.indexOf(col) < 0;
+const columnIsPrioritized = col => priorityColumns.indexOf(col) > 0;
+
+const sortColumnsByPriority = (colA, colB) => {
+  if (
+    (columnIsNotPrioritized(colA) && columnIsNotPrioritized(colB)) ||
+    (columnIsNotPrioritized(colA) && columnIsPrioritized(colB))
+  ) {
+    return 1;
+  }
+
+  if (columnIsPrioritized(colA) && columnIsNotPrioritized(colB)) {
+    return -1;
+  }
+
+  return priorityColumns.indexOf(colA) - priorityColumns.indexOf(colB);
+};
+
+const filterOutSkipColumns = col => !skipColumns.includes(col);
+
+const filterForQuickResults = isDetailed => col =>
+  isDetailed || quickResultColumns.includes(col);
 
 //TODO: use a stateful "detailed results" to add a column filter
 const ParticipantRow = props => {
   return React.createElement("tr", { className: "table-row" }, [
-    props.columnHeaders.map(header =>
-      React.createElement(
-        "td",
-        { key: header, className: "table-cell" },
-        `${props.rider[header]}`
+    props.columnHeaders
+      .filter(filterForQuickResults(props.isDetailed))
+      .filter(filterOutSkipColumns)
+      .sort(sortColumnsByPriority)
+      .map(header =>
+        React.createElement(
+          "td",
+          { key: header, className: "table-cell" },
+          `${props.rider[header]}`
+        )
       )
-    )
   ]);
 };
 
@@ -56,9 +92,13 @@ const HeaderRow = props => {
     "thead",
     null,
     React.createElement("tr", { className: "table-row" }, [
-      props.columnHeaders.map(header =>
-        React.createElement("th", { className: "table-cell" }, header)
-      )
+      props.columnHeaders
+        .filter(filterForQuickResults(props.isDetailed))
+        .filter(filterOutSkipColumns)
+        .sort(sortColumnsByPriority)
+        .map(header =>
+          React.createElement("th", { className: "table-cell" }, header)
+        )
     ])
   );
 };
@@ -66,7 +106,7 @@ const HeaderRow = props => {
 const CategoryTable = props => {
   const tableHeaders = props.cat.split("::");
   const columnHeaders = Object.keys(props.riders[0] || {});
-  console.log(columnHeaders);
+  const { isDetailed } = props;
 
   return React.createElement("div", { className: "category-table" }, [
     React.createElement(
@@ -86,7 +126,11 @@ const CategoryTable = props => {
       ]
     ),
     React.createElement("table", { key: "cat-table" }, [
-      React.createElement(HeaderRow, { columnHeaders, key: "header-row" }),
+      React.createElement(HeaderRow, {
+        columnHeaders,
+        isDetailed,
+        key: "header-row"
+      }),
       React.createElement(
         "tbody",
         { key: "table-body" },
@@ -94,6 +138,7 @@ const CategoryTable = props => {
           React.createElement(ParticipantRow, {
             columnHeaders,
             rider,
+            isDetailed,
             key: rider["Place"]
           })
         )
@@ -102,14 +147,14 @@ const CategoryTable = props => {
   ]);
 };
 
-const EventHeader = ({ name, location }) =>
+const EventHeader = ({ name, location, handleClick, isDetailed }) =>
   React.createElement("h1", { className: "event-header" }, [
     React.createElement("span", { key: "name-header" }, `${name} `),
     React.createElement("small", { key: "location-header" }, location),
     React.createElement(
       "button",
-      { key: "details-btn", className: "details-btn" },
-      "Detailed Results"
+      { key: "details-btn", className: "details-btn", onClick: handleClick },
+      isDetailed ? "Quick Results" : "Detailed Results"
     )
   ]);
 
@@ -124,7 +169,8 @@ class EventPage extends React.Component {
     this.state = {
       event: {},
       categories: [],
-      participants: {}
+      participants: {},
+      isDetailed: false
     };
   }
 
@@ -146,16 +192,27 @@ class EventPage extends React.Component {
     });
   }
 
+  handleDetailedResultsClick = e => {
+    this.setState({ isDetailed: !this.state.isDetailed });
+  };
+
   render() {
     const {
       categories,
       event,
       event: { name, location },
+      isDetailed,
       participants
     } = this.state;
 
     return React.createElement("div", null, [
-      React.createElement(EventHeader, { name, location, key: "header-key" }),
+      React.createElement(EventHeader, {
+        name,
+        location,
+        isDetailed,
+        key: "header-key",
+        handleClick: this.handleDetailedResultsClick
+      }),
       React.createElement(EventDetails, {
         eventDetails: this.state.event,
         key: "details-key"
@@ -163,6 +220,7 @@ class EventPage extends React.Component {
       ...categories.map(cat =>
         React.createElement(CategoryTable, {
           cat,
+          isDetailed,
           key: cat,
           riders: participants[cat]
         })
