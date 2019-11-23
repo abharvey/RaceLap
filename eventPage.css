@@ -1,35 +1,54 @@
-.details-btn {
-  background-color: #5cb85c;
-  border: 1px solid transparent;
-  color: #fff;
-  align-self: flex-end;
-  font-weight: 400;
-  font-size: 12px;
-  padding: 5px 10px;
-  border-radius: 3px;
-}
-
-.details-btn:hover {
-  background-color: #309230;
+.event-page {
+  margin: 0 60px;
 }
 
 .event-header {
   border-bottom: 1px solid #eee;
   display: flex;
   flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+small {
+  font-size: 0.65rem;
+}
+
+.details-btn {
+  background-color: #5cb85c;
+  border: 1px solid transparent;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  height: 28px;
+  align-self: center;
+}
+
+.details-btn:hover {
+  background-color: #309230;
+}
+
+.event-header > small {
+  align-self: flex-end;
+  padding: 2px 10px;
 }
 
 .category-table,
 table {
   margin: 5px 40px;
+  border-collapse: collapse;
+  white-space: nowrap;
 }
 
+th,
 td,
 tr {
   padding: 5px;
   line-height: 1.42857143;
   vertical-align: top;
   border-top: 1px solid #ddd;
+  white-space: nowrap;
 }
 
 tbody > tr:nth-of-type(odd) {
@@ -37,12 +56,42 @@ tbody > tr:nth-of-type(odd) {
 }
 
 .table-cell {
-  width: 120px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.name-header,
+.name-cell {
+  width: 140px;
+  max-width: 140px;
+}
+
+.club-header,
+.club-cell {
+  width: 160px;
+  min-width: 160px;
+}
+
+.place-header,
+.place-cell {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 50px;
 }
 
 .place {
-  display: inline-block;
-  text-align: center;
-  vertical-align: middle;
   width: 24px;
+}
+
+[class^="lap"] {
+  width: 110px;
+  min-width: 110px;
+}
+
+.laps-header,
+.laps-cell {
+  width: 40px;
+  min-width: 40px;
 }

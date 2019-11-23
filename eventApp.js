@@ -1,6 +1,8 @@
 /* REACT LOADING */
 "use strict";
 
+const replaceColWhiteSpace = col => col.toLowerCase().replace(/[\s]+/g, "-");
+
 const participantsByCategory = (category, participants = []) =>
   participants.filter(p => category.includes(p.cat));
 
@@ -70,6 +72,29 @@ const filterOutSkipColumns = col => !skipColumns.includes(col);
 const filterForQuickResults = isDetailed => col =>
   isDetailed || quickResultColumns.includes(col);
 
+const cell = (col, string) =>
+  React.createElement(
+    "td",
+    {
+      key: col,
+      className: `table-cell ${replaceColWhiteSpace(col)}-cell`
+    },
+    string
+  );
+
+const placeCell = string =>
+  React.createElement(
+    "td",
+    {
+      key: `place-cell-${string}`,
+      className: "table-cell place-cell"
+    },
+    React.createElement("span", { className: "place" }, string)
+  );
+
+const cellComponent = (col, string) =>
+  col === "Place" ? placeCell(string) : cell(col, string);
+
 //TODO: use a stateful "detailed results" to add a column filter
 const ParticipantRow = props => {
   return React.createElement("tr", { className: "table-row" }, [
@@ -77,16 +102,7 @@ const ParticipantRow = props => {
       .filter(filterForQuickResults(props.isDetailed))
       .filter(filterOutSkipColumns)
       .sort(sortColumnsByPriority)
-      .map(col =>
-        React.createElement(
-          "td",
-          {
-            key: col,
-            className: `table-cell ${col.toLowerCase().replace(/[\s]+/g, "-")}`
-          },
-          `${props.rider[col]}`
-        )
-      )
+      .map(col => cellComponent(col, props.rider[col]))
   ]);
 };
 
@@ -99,7 +115,13 @@ const HeaderRow = props => {
         .filter(filterForQuickResults(props.isDetailed))
         .filter(filterOutSkipColumns)
         .sort(sortColumnsByPriority)
-        .map(col => React.createElement("th", { className: "table-cell" }, col))
+        .map(col =>
+          React.createElement(
+            "th",
+            { className: `${replaceColWhiteSpace(col)}-header` },
+            col
+          )
+        )
     ])
   );
 };
@@ -209,7 +231,7 @@ class EventPage extends React.Component {
       participants
     } = this.state;
 
-    return React.createElement("div", null, [
+    return React.createElement("div", { className: "event-page" }, [
       React.createElement(EventHeader, {
         name,
         location,
