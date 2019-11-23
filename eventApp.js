@@ -23,7 +23,7 @@ const detailsInOrder = [
 const EventDetails = ({ eventDetails }) =>
   React.createElement(
     "ul",
-    null,
+    { className: "event-details" },
     detailsInOrder.map(key =>
       React.createElement(
         "li",
@@ -77,11 +77,14 @@ const ParticipantRow = props => {
       .filter(filterForQuickResults(props.isDetailed))
       .filter(filterOutSkipColumns)
       .sort(sortColumnsByPriority)
-      .map(header =>
+      .map(col =>
         React.createElement(
           "td",
-          { key: header, className: "table-cell" },
-          `${props.rider[header]}`
+          {
+            key: col,
+            className: `table-cell ${col.toLowerCase().replace(/[\s]+/g, "-")}`
+          },
+          `${props.rider[col]}`
         )
       )
   ]);
@@ -96,17 +99,29 @@ const HeaderRow = props => {
         .filter(filterForQuickResults(props.isDetailed))
         .filter(filterOutSkipColumns)
         .sort(sortColumnsByPriority)
-        .map(header =>
-          React.createElement("th", { className: "table-cell" }, header)
-        )
+        .map(col => React.createElement("th", { className: "table-cell" }, col))
     ])
   );
 };
 
+const tableBody = ({ riders, columnHeaders, isDetailed }) =>
+  React.createElement(
+    "tbody",
+    { key: "table-body" },
+    riders.map(rider =>
+      React.createElement(ParticipantRow, {
+        columnHeaders,
+        rider,
+        isDetailed,
+        key: rider["Place"]
+      })
+    )
+  );
+
 const CategoryTable = props => {
+  const { isDetailed, riders } = props;
   const tableHeaders = props.cat.split("::");
-  const columnHeaders = Object.keys(props.riders[0] || {});
-  const { isDetailed } = props;
+  const columnHeaders = Object.keys(riders[0] || {});
 
   return React.createElement("div", { className: "category-table" }, [
     React.createElement(
@@ -131,18 +146,7 @@ const CategoryTable = props => {
         isDetailed,
         key: "header-row"
       }),
-      React.createElement(
-        "tbody",
-        { key: "table-body" },
-        props.riders.map(rider =>
-          React.createElement(ParticipantRow, {
-            columnHeaders,
-            rider,
-            isDetailed,
-            key: rider["Place"]
-          })
-        )
-      )
+      tableBody({ riders, columnHeaders, isDetailed })
     ])
   ]);
 };

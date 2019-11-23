@@ -19,10 +19,30 @@
   flex-direction: row;
 }
 
-.tbody > .table-row:nth-of-type(odd) {
+.category-table,
+table {
+  margin: 5px 40px;
+}
+
+td,
+tr {
+  padding: 5px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+tbody > tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 
 .table-cell {
-  min-width: 120px;
+  width: 120px;
+}
+
+.place {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 24px;
 }
