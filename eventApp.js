@@ -150,16 +150,14 @@ const CategoryTable = props => {
       "h3",
       { key: "cat-header", className: "category-header" },
       [
-        React.createElement(
-          "span",
-          { key: "category-name" },
-          `${tableHeaders[0]} `
-        ),
-        React.createElement(
-          "small",
-          { key: "cat-sub-name" },
-          `${tableHeaders[1]} `
-        )
+        React.createElement("span", { key: "category-name" }, [
+          `${tableHeaders[0]} `,
+          React.createElement(
+            "small",
+            { key: "cat-sub-name" },
+            `${tableHeaders[1]} `
+          )
+        ])
       ]
     ),
     React.createElement("table", { key: "cat-table" }, [
@@ -175,8 +173,10 @@ const CategoryTable = props => {
 
 const EventHeader = ({ name, location, handleClick, isDetailed }) =>
   React.createElement("h1", { className: "event-header" }, [
-    React.createElement("span", { key: "name-header" }, `${name} `),
-    React.createElement("small", { key: "location-header" }, location),
+    React.createElement("span", { key: "name-header" }, [
+      `${name} `,
+      React.createElement("small", { key: "location-header" }, location)
+    ]),
     React.createElement(
       "button",
       { key: "details-btn", className: "details-btn", onClick: handleClick },
