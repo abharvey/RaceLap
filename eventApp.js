@@ -239,6 +239,14 @@ class EventPage extends React.Component {
         key: "header-key",
         handleClick: this.handleDetailedResultsClick
       }),
+      React.createElement("span", { className: "pull-right", id: "vistor" }, [
+        React.createElement(
+          "span",
+          { id: "visitorcount", key: "visitcount" },
+          null
+        ),
+        React.createElement("span", { id: "visitorimg", key: "img" }, null)
+      ]),
       React.createElement(EventDetails, {
         eventDetails: this.state.event,
         key: "details-key"
