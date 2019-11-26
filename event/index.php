@@ -196,6 +196,7 @@ if ($eventdata['organizer'] == 'Velo NB') {
 
               //loadResults from buttonclick
               $('#ResultsDetailed').click();
+              // TODO: merge First Name and Last Name into a "Name" Column
 
               const eventDataLoaded = new CustomEvent('event::data::loaded', {detail: { eventData: response }});
 

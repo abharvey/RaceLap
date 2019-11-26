@@ -10,6 +10,15 @@
   justify-content: space-between;
 }
 
+.event-header span {
+  margin-bottom: 8px;
+  color: #505050;
+}
+
+.event-header span small {
+  color: #777;
+}
+
 small {
   font-size: 0.65rem;
 }
