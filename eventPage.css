@@ -1,7 +1,6 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
   color: #333;
   background-color: #fff;
   margin: 0;
@@ -15,6 +14,20 @@ h1 {
   font-size: 36px;
   font-weight: 400;
   line-height: 1;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .event-page {
@@ -34,12 +47,10 @@ h1 {
   color: #505050;
 }
 
-.event-header span small {
-  color: #777;
-}
-
 small {
-  font-size: 0.65rem;
+  font-size: 0.65em;
+  font-weight: 400;
+  color: #777;
 }
 
 .details-btn {
@@ -62,9 +73,14 @@ small {
   padding: 2px 10px;
 }
 
+.event-details {
+  font-size: 1rem;
+  margin-top: 0;
+}
+
 .category-table,
 table {
-  margin: 5px 40px;
+  margin: 5px 10px;
   border-collapse: collapse;
   white-space: nowrap;
 }
@@ -72,15 +88,25 @@ table {
 th,
 td,
 tr {
+  font-size: 0.9rem;
   padding: 5px;
-  line-height: 1.42857143;
+  line-height: 1.4rem;
   vertical-align: top;
   border-top: 1px solid #ddd;
   white-space: nowrap;
+  text-align: center;
+}
+
+td {
+  min-width: 36px;
 }
 
 tbody > tr:nth-of-type(odd) {
   background-color: #f9f9f9;
+}
+
+.table-row .no-riders {
+  line-height: 1.5rem;
 }
 
 .table-cell {
@@ -91,14 +117,16 @@ tbody > tr:nth-of-type(odd) {
 
 .name-header,
 .name-cell {
-  width: 140px;
-  max-width: 140px;
+  min-width: 180px;
+  max-width: 180px;
+  text-align: left;
 }
 
 .club-header,
 .club-cell {
-  width: 160px;
-  min-width: 160px;
+  min-width: 180px;
+  max-width: 180px;
+  text-align: center;
 }
 
 .place-header,
@@ -110,25 +138,29 @@ tbody > tr:nth-of-type(odd) {
 }
 
 .place {
-  width: 24px;
+  min-width: 24px;
+  max-width: 24px;
 }
 
 [class^="lap"] {
-  width: 110px;
-  min-width: 110px;
+  min-width: 120px;
 }
 
 .laps-header,
 .laps-cell {
-  width: 40px;
   min-width: 40px;
 }
 
 .pull-right {
   display: flex;
   flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
-.pull-right > span {
-  margin: 8px 0;
+.pull-right span {
+  margin: 0 4px;
+}
+
+._note {
+  margin: 40px;
 }

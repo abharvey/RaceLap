@@ -27,13 +27,9 @@ $meta = "";
 if ($eventdata['organizer'] == 'Velo NB') {
   $meta .= "<meta property='og:description' content='Racelap - Velo NB' />\r\n";
   $meta .= "<meta property='og:image' content='http://results.charetx2.com/img/VNB_RaceResults.png' />\r\n";
-  //$meta .= "<meta property='og:video:width' content='500' />\r\n";
-  //$meta .= "<meta property='og:video:height' content='260' />\r\n";
 } else if ($eventdata['organizer'] == 'RVC') {
   $meta .= "<meta property='og:description' content='Racelap - RVC' />\r\n";
   $meta .= "<meta property='og:image' content='http://results.charetx2.com/img/RVC_RaceResults.png' />\r\n";
-  //$meta .= "<meta property='og:video:width' content='500' />\r\n";
-  //$meta .= "<meta property='og:video:height' content='260' />\r\n";
 }
 ?>
 <!DOCTYPE html>
@@ -46,7 +42,6 @@ if ($eventdata['organizer'] == 'Velo NB') {
   <meta name="viewport" content="width=device-width, initial-scale=0.75">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>RaceLap - Results</title>
-<link href="/scripts/css/bootstrap.min.css" rel="stylesheet">
 <link href="/eventPage.css" rel="stylesheet" />
 <script src="/scripts/js/jquery-3.2.1.min.js"></script>
 <script src="/scripts/js/jquery.dataTables.min.js"></script>
@@ -135,85 +130,24 @@ if ($eventdata['organizer'] == 'Velo NB') {
           dataType: 'json',
           success: function(response) {
               json_results = response;
-            //   $("#eventname").append(response.event[0].name);
-            //   $(document).attr("title", 'RaceLap | ' + response.event[0].name);
-            //   $("#eventdate").append("Date: " + response.event[0].date);
-            //   $("#eventlocation").append(response.event[0].location);
+           
+            //Combining first and last names as "Name" object
+            Object.keys(json_results).forEach(key => {
+                if(key.toLowerCase() != 'event') {
+                    for (i = 0; i < response[key].results.length; i++) {
+                        response[key].results[i].Name = response[key].results[i]['First Name'] +
+                        ' ' + response[key].results[i]['Last Name'];
+                        
+                        response[key].results[i]['Finish Time'] = response[key].results[i]['Finish Time'].substr(0, 10);
+                    }
+                }
+            });
 
-            //   var commissaire = response.event[0].commissaire;
-            //   if (commissaire && commissaire.trim().length) {
-            //     $("#eventcommissaire").append("Commissaire: " + commissaire);
-            //   }
+            const eventDataLoaded = new CustomEvent('event::data::loaded', {detail: { eventData: response }});
 
-            //   var participant = response.event[0].participant;
-            //   if (participant && participant.trim().length) {
-            //     $("#eventparticipant").append("Participants: " + participant);
-            //   }
-
-            //   var resultstatus = response.event[0].resultstatus;
-            //   if (resultstatus && resultstatus.trim().length) {
-            //     $("#eventresultstatus").append("Status: " + resultstatus);
-            //   }
-            //   var eventorganizer = response.event[0].organizer;
-
-            //   if (eventorganizer && eventorganizer.trim().length) {
-            //     $("#eventorganizer").append("Race Series: " + eventorganizer);
-            //   }
-            //   var eventtype = response.event[0].type;
-            //   if (eventtype && eventtype.trim().length) {
-            //     $("#eventorganizer").append(" (" + eventtype + ")");
-            //   }
-              //eventresultstatus
-
-              //loadResults from buttonclick
-              $('#ResultsDetailed').click();
-              // TODO: merge First Name and Last Name into a "Name" Column
-
-              const eventDataLoaded = new CustomEvent('event::data::loaded', {detail: { eventData: response }});
-
-              window.dispatchEvent(eventDataLoaded);
+            window.dispatchEvent(eventDataLoaded);
           }
       });
-
-      $('#ResultsDetailed').on('click', function (e) {
-        if (results_detailed == false){
-          $("#ResultsDetailed").text('Detailed Results');
-        } else {
-          $("#ResultsDetailed").text('Quick Results');
-        }
-
-        $("#ResultsDiv").empty();
-
-        $.each(json_results, function(key, val) {
-            if (key != 'event') { //Skip event info
-                initiateTable(key, json_results, results_detailed);
-            }
-        });
-        // Toggle value (simple, detailed)
-        results_detailed ^= true;
-      });
-
-      function initiateTable(tableId, response, detailed) {
-          var columns = [];
-
-          for (i = 0; i < response[tableId].columns.length; i++) {
-              var col = '';
-              // if column name is "First Name" then map to data object "Name"
-              if (response[tableId].columns[i][0] === 'First Name') {
-                  col = 'Name';
-              } else { // otherwise name and title are the same
-                  col = response[tableId].columns[i][0];
-              }
-
-          }
-
-
-          //Combining first and last names as "Name" object
-          for (i = 0; i < response[tableId].results.length; i++) {
-              response[tableId].results[i].Name = response[tableId].results[i]['First Name'] + ' ' + response[tableId].results[i]['Last Name'];
-              response[tableId].results[i]['Finish Time'] = response[tableId].results[i]['Finish Time'].substr(0, 10);
-          }
-      }
     });
 </script>
 </body>

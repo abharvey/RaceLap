@@ -23,20 +23,30 @@ const detailsInOrder = [
 ];
 
 const EventDetails = ({ eventDetails }) =>
-  React.createElement(
-    "ul",
-    { className: "event-details" },
-    detailsInOrder.map(key =>
+  React.createElement("span", { className: "pull-right", id: "vistor" }, [
+    React.createElement("div", { key: "viewer-div" }, [
       React.createElement(
-        "li",
-        {
-          key: `${key}-${eventDetails[key]}`,
-          style: { listStyleType: "none" }
-        },
-        `${detailTitles[key]}: ${eventDetails[key]}`
+        "span",
+        { id: "visitorcount", key: "visitcount" },
+        null
+      ),
+      React.createElement("span", { id: "visitorimg", key: "img" }, null)
+    ]),
+    React.createElement(
+      "ul",
+      { className: "event-details", key: "details-list" },
+      detailsInOrder.map(key =>
+        React.createElement(
+          "li",
+          {
+            key: `${key}-${eventDetails[key]}`,
+            style: { listStyleType: "none" }
+          },
+          `${detailTitles[key]}: ${eventDetails[key]}`
+        )
       )
     )
-  );
+  ]);
 
 const skipColumns = [
   "First Name",
@@ -126,18 +136,30 @@ const HeaderRow = props => {
   );
 };
 
+const noParticipants = () =>
+  React.createElement(
+    "tr",
+    { className: "table-row no-riders" },
+    React.createElement("td", null, "No Participants / Aucun participant")
+  );
+
+const riderRows = (riders, columnHeaders, isDetailed) =>
+  riders.map(rider =>
+    React.createElement(ParticipantRow, {
+      columnHeaders,
+      rider,
+      isDetailed,
+      key: rider["Place"]
+    })
+  );
+
 const tableBody = ({ riders, columnHeaders, isDetailed }) =>
   React.createElement(
     "tbody",
     { key: "table-body" },
-    riders.map(rider =>
-      React.createElement(ParticipantRow, {
-        columnHeaders,
-        rider,
-        isDetailed,
-        key: rider["Place"]
-      })
-    )
+    riders.length > 0
+      ? riderRows(riders, columnHeaders, isDetailed)
+      : noParticipants()
   );
 
 const CategoryTable = props => {
@@ -239,14 +261,6 @@ class EventPage extends React.Component {
         key: "header-key",
         handleClick: this.handleDetailedResultsClick
       }),
-      React.createElement("span", { className: "pull-right", id: "vistor" }, [
-        React.createElement(
-          "span",
-          { id: "visitorcount", key: "visitcount" },
-          null
-        ),
-        React.createElement("span", { id: "visitorimg", key: "img" }, null)
-      ]),
       React.createElement(EventDetails, {
         eventDetails: this.state.event,
         key: "details-key"
