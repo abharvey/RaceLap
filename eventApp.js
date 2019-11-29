@@ -58,16 +58,12 @@ const skipColumns = [
 
 const quickResultColumns = ["Place", "Name", "Club", "Finish Time"];
 const priorityColumns = ["Place", "Bib", "Name", "VNBAffiliation", "Club"];
-const remainingOrder = []; //? can I avoid this?
 
 const columnIsNotPrioritized = col => priorityColumns.indexOf(col) < 0;
 const columnIsPrioritized = col => priorityColumns.indexOf(col) >= 0;
 
 const sortColumnsByPriority = (colA, colB) => {
-  if (
-    (columnIsNotPrioritized(colA) && columnIsNotPrioritized(colB)) ||
-    (columnIsNotPrioritized(colA) && columnIsPrioritized(colB))
-  ) {
+  if (columnIsNotPrioritized(colA) && columnIsPrioritized(colB)) {
     return 1;
   }
 
