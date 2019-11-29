@@ -211,6 +211,9 @@ class EventPage extends React.Component {
     super(props);
 
     this.handleDataLoad = this.handleDataLoad.bind(this);
+    this.handleDetailedResultsClick = this.handleDetailedResultsClick.bind(
+      this
+    );
 
     window.addEventListener("event::data::loaded", this.handleDataLoad);
 
@@ -240,9 +243,9 @@ class EventPage extends React.Component {
     });
   }
 
-  handleDetailedResultsClick = e => {
+  handleDetailedResultsClick(e) {
     this.setState({ isDetailed: !this.state.isDetailed });
-  };
+  }
 
   render() {
     const {
