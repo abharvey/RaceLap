@@ -1,0 +1,165 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  background-color: #fff;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.event-page {
+  margin: 0 60px;
+}
+
+.event-header {
+  border-bottom: 1px solid #eee;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.event-header span {
+  margin-bottom: 8px;
+  color: #505050;
+}
+
+small {
+  font-size: 0.65em;
+  font-weight: 400;
+  color: #777;
+}
+
+.details-btn {
+  background-color: #5cb85c;
+  border: 1px solid transparent;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  height: 28px;
+  align-self: center;
+}
+
+.details-btn:hover {
+  background-color: #309230;
+}
+
+.event-header > small {
+  align-self: flex-end;
+  padding: 2px 10px;
+}
+
+.event-details {
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+.category-table,
+table {
+  margin: 5px 10px;
+  border-collapse: collapse;
+  white-space: nowrap;
+}
+
+th,
+td,
+tr {
+  font-size: 0.9rem;
+  padding: 5px;
+  line-height: 1.4rem;
+  vertical-align: top;
+  white-space: nowrap;
+  text-align: center;
+}
+
+td {
+  min-width: 36px;
+}
+
+tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+
+.table-row .no-riders {
+  line-height: 1.5rem;
+}
+
+.table-cell {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.name-header,
+.name-cell {
+  min-width: 180px;
+  max-width: 180px;
+  text-align: left;
+}
+
+.club-header,
+.club-cell {
+  min-width: 180px;
+  max-width: 180px;
+  text-align: center;
+}
+
+.place-header,
+.place-cell {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 50px;
+}
+
+.place {
+  min-width: 24px;
+  max-width: 24px;
+}
+
+[class^="lap"] {
+  min-width: 120px;
+}
+
+.laps-header,
+.laps-cell {
+  min-width: 40px;
+}
+
+.pull-right {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.pull-right span {
+  margin: 0 4px;
+}
+
+._note {
+  margin: 40px;
+}

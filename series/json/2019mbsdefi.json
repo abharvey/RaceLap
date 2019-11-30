@@ -1,0 +1,146 @@
+{
+"event": [
+{
+	"name": "2019 Defi Mike's Bike Shop",
+	"date": "2019",
+	"location": "Dieppe, NB",
+	"organizer": "MBS",
+	"type": "XCC",
+	"resultstatus": "Standings",
+	"public": true
+}
+],
+"U17 (Youth)::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Samuel","Last Name":"Beaupre","Affiliation":"NB01672","Club":"Fitworks","Semaine1":"100","Semaine2":"100","Semaine3":"100","Semaine4":"0","Semaine5":"100","Semaine6":"125","Total":"525"},
+		{"Place":"2","First Name":"Benjamin","Last Name":"Martin","Affiliation":"NB01666","Club":"Fitworks","Semaine1":"125","Semaine2":"125","Semaine3":"125","Semaine4":"0","Semaine5":"125","Semaine6":"0","Total":"500"},
+		{"Place":"3","First Name":"William","Last Name":"Arsenault ","Affiliation":"NB01674","Club":"Fitworks","Semaine1":"80","Semaine2":"75","Semaine3":"75","Semaine4":"100","Semaine5":"70","Semaine6":"80","Total":"480"},
+		{"Place":"4","First Name":"Jayson","Last Name":"Lawson ","Affiliation":"NB01950","Club":"Fitworks","Semaine1":"0","Semaine2":"80","Semaine3":"80","Semaine4":"125","Semaine5":"80","Semaine6":"100","Total":"465"},
+		{"Place":"5","First Name":"Mikah","Last Name":"Grifiths ","Affiliation":"NB02075","Club":"","Semaine1":"75","Semaine2":"70","Semaine3":"70","Semaine4":"80","Semaine5":"65","Semaine6":"75","Total":"435"},
+		{"Place":"6","First Name":"Dominique","Last Name":"Lavoie","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"75","Semaine6":"0","Total":"75"}
+
+	]
+},
+"U17 (Youth)::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Emilie Chleo","Last Name":"McIntyre","Affiliation":"NB01667","Club":"Fitworks","Semaine1":"125","Semaine2":"0","Semaine3":"0","Semaine4":"125","Semaine5":"125","Semaine6":"125","Total":"500"},
+		{"Place":"2","First Name":"Vanessa","Last Name":"Thomsen ","Affiliation":"NB01673","Club":"Fitworks","Semaine1":"80","Semaine2":"0","Semaine3":"125","Semaine4":"100","Semaine5":"80","Semaine6":"100","Total":"485"},
+		{"Place":"3","First Name":"Florence","Last Name":"Levesque","Affiliation":"NB01668","Club":"Fitworks","Semaine1":"100","Semaine2":"125","Semaine3":"0","Semaine4":"0","Semaine5":"100","Semaine6":"0","Total":"325"}
+
+	]
+},
+"U15 ::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Alex","Last Name":"Haché","Affiliation":"NB01665","Club":"Fitworks","Semaine1":"125","Semaine2":"125","Semaine3":"125","Semaine4":"125","Semaine5":"125","Semaine6":"125","Total":"750"},
+		{"Place":"2","First Name":"Joshua","Last Name":"Pellerin ","Affiliation":"NB01671","Club":"Fitworks","Semaine1":"80","Semaine2":"80","Semaine3":"100","Semaine4":"100","Semaine5":"80","Semaine6":"80","Total":"520"},
+		{"Place":"3","First Name":"Xavier","Last Name":"Morin","Affiliation":"NB01675","Club":"Fitworks","Semaine1":"100","Semaine2":"100","Semaine3":"80","Semaine4":"0","Semaine5":"100","Semaine6":"100","Total":"480"},
+		{"Place":"4","First Name":"Joshua","Last Name":"Boudreau","Affiliation":"","Club":"","Semaine1":"65","Semaine2":"70","Semaine3":"65","Semaine4":"80","Semaine5":"75","Semaine6":"70","Total":"425"},
+		{"Place":"5","First Name":"Mathieu","Last Name":"Doiron","Affiliation":"NB02091","Club":"","Semaine1":"40","Semaine2":"45","Semaine3":"45","Semaine4":"70","Semaine5":"50","Semaine6":"55","Total":"305"},
+		{"Place":"6","First Name":"Patrick","Last Name":"Fournier","Affiliation":"NB01850","Club":"Velo Bike Ski Trail","Semaine1":"75","Semaine2":"75","Semaine3":"75","Semaine4":"0","Semaine5":"0","Semaine6":"75","Total":"300"},
+		{"Place":"7","First Name":"Nicholas","Last Name":"Cormier-Massiera","Affiliation":"NB02092","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"60","Semaine4":"75","Semaine5":"60","Semaine6":"65","Total":"260"},
+		{"Place":"8","First Name":"Alek","Last Name":"Babineau","Affiliation":"NB02095","Club":"","Semaine1":"35","Semaine2":"40","Semaine3":"30","Semaine4":"50","Semaine5":"45","Semaine6":"40","Total":"240"},
+		{"Place":"8","First Name":"William","Last Name":"Adams ","Affiliation":"NB02090","Club":"","Semaine1":"30","Semaine2":"60","Semaine3":"50","Semaine4":"0","Semaine5":"55","Semaine6":"45","Total":"240"},
+		{"Place":"10","First Name":"Alexandre","Last Name":"Vautour","Affiliation":"","Club":"","Semaine1":"70","Semaine2":"0","Semaine3":"70","Semaine4":"0","Semaine5":"70","Semaine6":"0","Total":"210"},
+		{"Place":"11","First Name":"Ryan","Last Name":"Weaver ","Affiliation":"","Club":"","Semaine1":"28","Semaine2":"55","Semaine3":"40","Semaine4":"0","Semaine5":"40","Semaine6":"35","Total":"198"},
+		{"Place":"12","First Name":"Phillippe","Last Name":"Robitaille ","Affiliation":"NB01964","Club":"Mike's Bike Shop","Semaine1":"60","Semaine2":"65","Semaine3":"0","Semaine4":"0","Semaine5":"65","Semaine6":"0","Total":"190"},
+		{"Place":"13","First Name":"Alexandre","Last Name":"Goguen","Affiliation":"","Club":"","Semaine1":"50","Semaine2":"0","Semaine3":"55","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"105"},
+		{"Place":"13","First Name":"Xavier","Last Name":"Dupuis","Affiliation":"NB01923","Club":"","Semaine1":"55","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"50","Total":"105"},
+		{"Place":"15","First Name":"Andrew","Last Name":"Anand","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"65","Semaine5":"0","Semaine6":"0","Total":"65"},
+		{"Place":"16","First Name":"Tye","Last Name":"Levesque","Affiliation":"","Club":"","Semaine1":"29","Semaine2":"35","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"64"},
+		{"Place":"17","First Name":"Cooper","Last Name":"Cormier","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"60","Semaine5":"0","Semaine6":"0","Total":"60"},
+		{"Place":"17","First Name":"Eric","Last Name":"Haché","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"60","Total":"60"},
+		{"Place":"19","First Name":"Samuel","Last Name":"Parent","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"55","Semaine5":"0","Semaine6":"0","Total":"55"},
+		{"Place":"20","First Name":"Roch","Last Name":"Delarosbil","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"50","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"50"},
+		{"Place":"21","First Name":"Jeremy","Last Name":"Boucher","Affiliation":"","Club":"","Semaine1":"45","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"45"},
+		{"Place":"22","First Name":"Emmit","Last Name":"Pike","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"40","Semaine5":"0","Semaine6":"0","Total":"40"},
+		{"Place":"23","First Name":"Austin","Last Name":"Collin","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"35","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"35"}
+	]
+},
+"U15 ::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Lydia","Last Name":"Cook","Affiliation":"NB01670","Club":"Fitworks","Semaine1":"0","Semaine2":"100","Semaine3":"100","Semaine4":"100","Semaine5":"125","Semaine6":"0","Total":"425"},
+		{"Place":"2","First Name":"Alizee","Last Name":"LeBlanc","Affiliation":"NB02093","Club":"","Semaine1":"0","Semaine2":"125","Semaine3":"125","Semaine4":"125","Semaine5":"0","Semaine6":"0","Total":"375"}
+
+	]
+},
+"U13 ::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Phillippe","Last Name":"Morin","Affiliation":"NB01704","Club":"Fitworks","Semaine1":"100","Semaine2":"100","Semaine3":"100","Semaine4":"100","Semaine5":"125","Semaine6":"100","Total":"625"},
+		{"Place":"1","First Name":"Jonathan","Last Name":"Cook","Affiliation":"NB01669","Club":"Fitworks","Semaine1":"125","Semaine2":"125","Semaine3":"125","Semaine4":"125","Semaine5":"0","Semaine6":"125","Total":"625"},
+		{"Place":"3","First Name":"Xavier","Last Name":"Vautour","Affiliation":"NB01949","Club":"Fitworks","Semaine1":"80","Semaine2":"75","Semaine3":"80","Semaine4":"75","Semaine5":"100","Semaine6":"80","Total":"490"},
+		{"Place":"4","First Name":"Vincent","Last Name":"Doiron","Affiliation":"NB01952","Club":"","Semaine1":"75","Semaine2":"65","Semaine3":"75","Semaine4":"65","Semaine5":"70","Semaine6":"65","Total":"415"},
+		{"Place":"5","First Name":"Jacob","Last Name":"Hendal","Affiliation":"NB02094","Club":"","Semaine1":"60","Semaine2":"70","Semaine3":"65","Semaine4":"70","Semaine5":"55","Semaine6":"70","Total":"390"},
+		{"Place":"6","First Name":"Théo","Last Name":"Parent ","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"50","Semaine3":"70","Semaine4":"60","Semaine5":"65","Semaine6":"0","Total":"245"},
+		{"Place":"6","First Name":"Cedric","Last Name":"Leblanc","Affiliation":"NB01980","Club":"","Semaine1":"70","Semaine2":"55","Semaine3":"0","Semaine4":"0","Semaine5":"60","Semaine6":"60","Total":"245"},
+		{"Place":"8","First Name":"Patrick","Last Name":"Allain","Affiliation":"NB01772","Club":"VeloKent","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"80","Semaine5":"80","Semaine6":"0","Total":"160"},
+		{"Place":"9","First Name":"Ewan","Last Name":"Halfpenny","Affiliation":"NB02133","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"75","Semaine6":"75","Total":"150"},
+		{"Place":"10","First Name":"Ryden","Last Name":"Belliveau ","Affiliation":"","Club":"Mike's Bike Shop","Semaine1":"0","Semaine2":"80","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"80"},
+		{"Place":"11","First Name":"Caleb","Last Name":"Bolduc","Affiliation":"","Club":"","Semaine1":"65","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"65"},
+		{"Place":"12","First Name":"Benjamin","Last Name":"Howard","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"60","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"60"},
+		{"Place":"13","First Name":"Ian","Last Name":"Griffiths","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"55","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"55"},
+		{"Place":"13","First Name":"Maxime","Last Name":"Ricar","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"55","Total":"55"}
+	]
+},
+"U13 ::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Catherine","Last Name":"Belanger","Affiliation":"NB01977","Club":"","Semaine1":"125","Semaine2":"125","Semaine3":"125","Semaine4":"125","Semaine5":"125","Semaine6":"125","Total":"750"},
+		{"Place":"2","First Name":"Melyzane","Last Name":"Lagacé","Affiliation":"NB02020","Club":"Mike's Bike Shop","Semaine1":"100","Semaine2":"100","Semaine3":"100","Semaine4":"100","Semaine5":"100","Semaine6":"100","Total":"600"}
+	]
+},
+"U11 ::Men": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+		{"Place":"1","First Name":"Alexandre","Last Name":"Caissie","Affiliation":"NB01712","Club":"VeloKent","Semaine1":"0","Semaine2":"0","Semaine3":"125","Semaine4":"125","Semaine5":"125","Semaine6":"125","Total":"500"},
+		{"Place":"2","First Name":"Mickael","Last Name":"Lagacé","Affiliation":"NB02021","Club":"","Semaine1":"75","Semaine2":"80","Semaine3":"75","Semaine4":"75","Semaine5":"80","Semaine6":"75","Total":"460"},
+		{"Place":"3","First Name":"Dominic","Last Name":"Beaupre","Affiliation":"NB01802","Club":"","Semaine1":"0","Semaine2":"75","Semaine3":"65","Semaine4":"80","Semaine5":"75","Semaine6":"100","Total":"395"},
+		{"Place":"4","First Name":"Tristan","Last Name":"Doucette","Affiliation":"NB02070","Club":"","Semaine1":"80","Semaine2":"70","Semaine3":"70","Semaine4":"0","Semaine5":"70","Semaine6":"65","Total":"355"},
+		{"Place":"5","First Name":"Julien","Last Name":"Murdock","Affiliation":"NB02003","Club":"Mike's Bike Shop","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"100","Semaine5":"100","Semaine6":"80","Total":"280"},
+		{"Place":"6","First Name":"Alex","Last Name":"Landry","Affiliation":"","Club":"","Semaine1":"100","Semaine2":"100","Semaine3":"60","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"260"},
+		{"Place":"7","First Name":"Cade","Last Name":"Belliveau ","Affiliation":"NB02042","Club":"Mike's Bike Shop","Semaine1":"0","Semaine2":"125","Semaine3":"100","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"225"},
+		{"Place":"8","First Name":"Caleb","Last Name":"Landry","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"70","Semaine5":"65","Semaine6":"60","Total":"195"},
+		{"Place":"9","First Name":"Evan","Last Name":"Bolduc","Affiliation":"","Club":"","Semaine1":"125","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"125"},
+		{"Place":"10","First Name":"Jeremy","Last Name":"Boudreau","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"80","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"80"},
+		{"Place":"11","First Name":"Felix","Last Name":"Poirier","Affiliation":"","Club":"","Semaine1":"70","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"70"},
+		{"Place":"11","First Name":"Lucas","Last Name":"Desrosier","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"70","Total":"70"},
+		{"Place":"13","First Name":"Xavier","Last Name":"Caissie","Affiliation":"NB01796","Club":"VeloKent","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"65","Semaine5":"0","Semaine6":"0","Total":"65"},
+		{"Place":"14","First Name":"Hugo","Last Name":"Paré","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"60","Semaine6":"0","Total":"60"},
+		{"Place":"14","First Name":"Malek","Last Name":"Desjardins","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"60","Semaine5":"0","Semaine6":"0","Total":"60"},
+		{"Place":"16","First Name":"Liam","Last Name":"Rouleau","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"55","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"55"},
+		{"Place":"16","First Name":"Samuel","Last Name":"Ricar","Affiliation":"","Club":"","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"55","Total":"55"}
+	]
+},
+"U11 ::Women": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["Affiliation"],["Club"],["Semaine1"],["Semaine2"],["Semaine3"],["Semaine4"],["Semaine5"],["Semaine6"],["Total"]
+		],
+	"results": [
+
+		{"Place":"1","First Name":"Laura-Anne","Last Name":"Lang","Affiliation":"NB01691","Club":"VeloKent","Semaine1":"125","Semaine2":"100","Semaine3":"125","Semaine4":"100","Semaine5":"125","Semaine6":"125","Total":"700"},
+		{"Place":"2","First Name":"Kamille","Last Name":"Doiron","Affiliation":"NB01960","Club":"","Semaine1":"80","Semaine2":"125","Semaine3":"100","Semaine4":"80","Semaine5":"100","Semaine6":"100","Total":"585"},
+		{"Place":"3","First Name":"Jasmine","Last Name":"Leblanc","Affiliation":"NB01979","Club":"","Semaine1":"100","Semaine2":"75","Semaine3":"80","Semaine4":"75","Semaine5":"80","Semaine6":"80","Total":"490"},
+		{"Place":"4","First Name":"Janie","Last Name":"Bélanger","Affiliation":"NB01978","Club":"","Semaine1":"75","Semaine2":"80","Semaine3":"75","Semaine4":"0","Semaine5":"0","Semaine6":"75","Total":"305"},
+		{"Place":"5","First Name":"Marie-Eve","Last Name":"Michaud","Affiliation":"NB01766","Club":"VeloKent","Semaine1":"0","Semaine2":"0","Semaine3":"0","Semaine4":"125","Semaine5":"0","Semaine6":"0","Total":"125"},
+		{"Place":"6","First Name":"Melodie","Last Name":"Poirier ","Affiliation":"","Club":"","Semaine1":"70","Semaine2":"0","Semaine3":"0","Semaine4":"0","Semaine5":"0","Semaine6":"0","Total":"70"}
+	]
+}
+}

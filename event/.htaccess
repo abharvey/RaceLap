@@ -1,0 +1,7 @@
+RewriteEngine on
+# Drop the trailling slash
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /event/$1 [L,R]
+# Map Event Token over to q
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /event/index.php?q=$1 [L,QSA]

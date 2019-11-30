@@ -1,0 +1,166 @@
+{
+"event": [
+{
+	"name": "Youth Race - Course Jeunesse",
+	"date": "Jun 3, 2018",
+	"location": "Bathurst, NB",
+	"commissaire": "Guylaine Chiasson",
+	"participant": "81",
+	"resultstatus":"Official Results",
+	"organizer": "Velo NB",
+	"type": "XCO",
+	"public": true
+}
+],
+"U19::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"],["Lap 5"]
+		],
+	"results": [
+			{"Place":"1","Bib":"109","First Name":"Samuel","Last Name":"Jean","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U19","Laps":"5","Points":"80","Finish Time":"01:05:03.663","Gap":"","Start":"00:00:00.00","Lap 1":"00:11:39.17","Lap 2":"00:13:20.97","Lap 3":"00:13:31.93","Lap 4":"00:13:19.90","Lap 5":"00:13:11.67"}
+		]
+},
+"U19::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"]
+		],
+	"results": [
+		]
+},
+"U17::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"],["Lap 5"]
+		],
+	"results": [
+			{"Place":"1","Bib":"20","First Name":"Hayden","Last Name":"McKinnon","Gender":"M","Club":"The Radical Edge","Cat":"U17","Laps":"5","Points":"80","Finish Time":"00:55:07.422","Gap":"","Start":"00:00:00.00","Lap 1":"00:10:32.18","Lap 2":"00:11:03.94","Lap 3":"00:11:08.53","Lap 4":"00:11:17.55","Lap 5":"00:11:05.19"},
+			{"Place":"2","Bib":"56","First Name":"Miguel","Last Name":"Richard","Gender":"M","Club":"VeloKent","Cat":"U17","Laps":"5","Points":"70","Finish Time":"00:56:22.381","Gap":"+1:14.95","Start":"00:00:00.00","Lap 1":"00:10:48.78","Lap 2":"00:11:17.81","Lap 3":"00:11:26.28","Lap 4":"00:11:30.65","Lap 5":"00:11:18.83"},
+			{"Place":"3","Bib":"38","First Name":"Noah","Last Name":"Lydon","Gender":"M","Club":"The Radical Edge","Cat":"U17","Laps":"5","Points":"65","Finish Time":"00:56:23.544","Gap":"+1:16.12","Start":"00:00:00.00","Lap 1":"00:10:42.96","Lap 2":"00:11:22.70","Lap 3":"00:11:30.81","Lap 4":"00:11:31.03","Lap 5":"00:11:16.02"},
+			{"Place":"4","Bib":"41","First Name":"Pier-Luc","Last Name":"Lebel","Gender":"M","Club":"Vélo Edmundston","Cat":"U17","Laps":"5","Points":"60","Finish Time":"00:57:55.710","Gap":"+2:48.28","Start":"00:00:00.00","Lap 1":"00:10:53.80","Lap 2":"00:11:14.33","Lap 3":"00:11:32.29","Lap 4":"00:11:37.97","Lap 5":"00:12:37.30"},
+			{"Place":"5","Bib":"52","First Name":"Jules","Last Name":"Maillet","Gender":"M","Club":"VeloKent","Cat":"U17","Laps":"5","Points":"55","Finish Time":"01:03:20.246","Gap":"+8:12.82","Start":"00:00:00.00","Lap 1":"00:11:35.46","Lap 2":"00:12:11.70","Lap 3":"00:12:48.31","Lap 4":"00:13:06.41","Lap 5":"00:13:38.34"},
+			{"Place":"6","Bib":"104","First Name":"Kassey Franco","Last Name":"Arseneau","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U17","Laps":"5","Points":"50","Finish Time":"01:04:01.097","Gap":"+8:53.67","Start":"00:00:00.00","Lap 1":"00:11:35.37","Lap 2":"00:12:54.18","Lap 3":"00:13:06.09","Lap 4":"00:13:28.96","Lap 5":"00:12:56.47"},
+			{"Place":"7","Bib":"114","First Name":"Ryan","Last Name":"Hache","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U17","Laps":"4","Points":"48","Finish Time":"00:59:03.464","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:13:08.91","Lap 2":"00:15:04.38","Lap 3":"00:14:57.04","Lap 4":"00:15:53.12","Lap 5":""},
+			{"Place":"8","Bib":"118","First Name":"Jolain","Last Name":"Chiasson","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U17","Laps":"4","Points":"46","Finish Time":"01:06:14.097","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:15:01.28","Lap 2":"00:16:44.58","Lap 3":"00:17:21.20","Lap 4":"00:17:07.01","Lap 5":""}
+		]
+},
+"U17::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"256","First Name":"Florence","Last Name":"Levesque","Gender":"F","Club":"Fitworks","Cat":"U17","Laps":"4","Points":"80","Finish Time":"00:51:16.106","Gap":"","Start":"00:01:00.00","Lap 1":"00:12:08.43","Lap 2":"00:12:48.97","Lap 3":"00:13:05.81","Lap 4":"00:13:12.88"},
+			{"Place":"2","Bib":"33","First Name":"Vanessa","Last Name":"Thomsen","Gender":"F","Club":"Fitworks","Cat":"U17","Laps":"4","Points":"70","Finish Time":"00:53:45.302","Gap":"+2:29.19","Start":"00:01:00.00","Lap 1":"00:12:36.93","Lap 2":"00:13:29.13","Lap 3":"00:13:45.77","Lap 4":"00:13:53.46"},
+			{"Place":"3","Bib":"269","First Name":"Leila","Last Name":"Cartier","Gender":"F","Club":"Fitworks","Cat":"U17","Laps":"4","Points":"65","Finish Time":"00:55:04.408","Gap":"+3:48.30","Start":"00:01:00.00","Lap 1":"00:13:06.28","Lap 2":"00:14:05.16","Lap 3":"00:13:53.44","Lap 4":"00:13:59.50"},
+			{"Place":"4","Bib":"255","First Name":"Emma","Last Name":"MacKinnon","Gender":"F","Club":"VeloKent","Cat":"U17","Laps":"4","Points":"60","Finish Time":"01:04:11.133","Gap":"+12:55.02","Start":"00:01:00.00","Lap 1":"00:14:36.08","Lap 2":"00:16:02.42","Lap 3":"00:16:22.10","Lap 4":"00:17:10.52"}
+		]
+},
+"U15::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"],["Lap 4"]
+		],
+	"results": [
+			{"Place":"1","Bib":"39","First Name":"Benjamin","Last Name":"Martin","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"80","Finish Time":"00:46:42.653","Gap":"","Start":"00:00:00.00","Lap 1":"00:11:08.72","Lap 2":"00:11:55.33","Lap 3":"00:11:48.75","Lap 4":"00:11:49.84"},
+			{"Place":"2","Bib":"64","First Name":"Alex","Last Name":"Haché","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"70","Finish Time":"00:46:44.063","Gap":"+0:01.41","Start":"00:00:00.00","Lap 1":"00:11:07.68","Lap 2":"00:11:56.63","Lap 3":"00:11:48.01","Lap 4":"00:11:51.72"},
+			{"Place":"3","Bib":"282","First Name":"Samuel","Last Name":"Beaupre","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"65","Finish Time":"00:49:08.504","Gap":"+2:25.85","Start":"00:00:00.00","Lap 1":"00:11:42.15","Lap 2":"00:12:20.37","Lap 3":"00:12:37.82","Lap 4":"00:12:28.15"},
+			{"Place":"4","Bib":"53","First Name":"Edouard","Last Name":"Levesque","Gender":"M","Club":"Vélo Edmundston","Cat":"U15","Laps":"4","Points":"60","Finish Time":"00:49:11.936","Gap":"+2:29.28","Start":"00:00:00.00","Lap 1":"00:12:01.09","Lap 2":"00:12:28.84","Lap 3":"00:12:38.52","Lap 4":"00:12:03.47"},
+			{"Place":"5","Bib":"57","First Name":"Grayden","Last Name":"Mutch","Gender":"M","Club":"Independent","Cat":"U15","Laps":"4","Points":"55","Finish Time":"00:51:03.921","Gap":"+4:21.26","Start":"00:00:00.00","Lap 1":"00:12:28.08","Lap 2":"00:12:52.73","Lap 3":"00:12:41.12","Lap 4":"00:13:01.98"},
+			{"Place":"6","Bib":"124","First Name":"Xavier","Last Name":"Morin","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"50","Finish Time":"00:51:13.109","Gap":"+4:30.45","Start":"00:00:00.00","Lap 1":"00:12:26.94","Lap 2":"00:12:52.47","Lap 3":"00:12:59.46","Lap 4":"00:12:54.21"},
+			{"Place":"7","Bib":"51","First Name":"Antoine","Last Name":"Lacombe","Gender":"M","Club":"Vélo Edmundston","Cat":"U15","Laps":"4","Points":"48","Finish Time":"00:51:37.596","Gap":"+4:54.94","Start":"00:00:00.00","Lap 1":"00:12:26.59","Lap 2":"00:12:52.16","Lap 3":"00:12:59.79","Lap 4":"00:13:19.04"},
+			{"Place":"8","Bib":"58","First Name":"Samuel","Last Name":"Poirier","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"4","Points":"46","Finish Time":"00:51:56.183","Gap":"+5:13.53","Start":"00:00:00.00","Lap 1":"00:12:32.98","Lap 2":"00:12:54.33","Lap 3":"00:13:25.15","Lap 4":"00:13:03.70"},
+			{"Place":"9","Bib":"103","First Name":"Benoit","Last Name":"Jean","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"4","Points":"44","Finish Time":"00:52:40.568","Gap":"+5:57.91","Start":"00:00:00.00","Lap 1":"00:13:22.37","Lap 2":"00:12:27.22","Lap 3":"00:13:31.59","Lap 4":"00:13:19.37"},
+			{"Place":"10","Bib":"250","First Name":"Aris","Last Name":"Amellal","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"42","Finish Time":"00:55:21.457","Gap":"+8:38.80","Start":"00:00:00.00","Lap 1":"00:13:59.98","Lap 2":"00:13:09.12","Lap 3":"00:14:16.13","Lap 4":"00:13:56.20"},
+			{"Place":"11","Bib":"283","First Name":"Samuel","Last Name":"Collette","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"4","Points":"40","Finish Time":"00:55:24.127","Gap":"+8:41.47","Start":"00:00:00.00","Lap 1":"00:13:09.07","Lap 2":"00:13:58.09","Lap 3":"00:14:17.45","Lap 4":"00:13:59.50"},
+			{"Place":"12","Bib":"107","First Name":"Patrick","Last Name":"Landry","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"4","Points":"39","Finish Time":"00:55:30.004","Gap":"+8:47.35","Start":"00:00:00.00","Lap 1":"00:13:28.13","Lap 2":"00:13:43.73","Lap 3":"00:14:18.12","Lap 4":"00:14:00.00"},
+			{"Place":"13","Bib":"117","First Name":"Gabriel","Last Name":"Robichaud","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"4","Points":"38","Finish Time":"00:55:33.034","Gap":"+8:50.38","Start":"00:00:00.00","Lap 1":"00:14:30.01","Lap 2":"00:12:50.89","Lap 3":"00:14:10.40","Lap 4":"00:14:01.72"},
+			{"Place":"14","Bib":"278","First Name":"Pascal","Last Name":"LeBlanc","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"4","Points":"37","Finish Time":"00:56:44.510","Gap":"+10:01.85","Start":"00:00:00.00","Lap 1":"00:14:03.92","Lap 2":"00:13:37.95","Lap 3":"00:14:45.05","Lap 4":"00:14:17.57"},
+			{"Place":"15","Bib":"145","First Name":"Zachari","Last Name":"Duguay","Gender":"M","Club":"Independent","Cat":"U15","Laps":"4","Points":"36","Finish Time":"00:56:57.728","Gap":"+10:15.07","Start":"00:00:00.00","Lap 1":"00:14:07.30","Lap 2":"00:12:55.41","Lap 3":"00:14:30.47","Lap 4":"00:15:24.53"},
+			{"Place":"16","Bib":"70","First Name":"Etienne","Last Name":"Poirier","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"4","Points":"35","Finish Time":"01:00:26.367","Gap":"+13:43.71","Start":"00:00:00.00","Lap 1":"00:15:16.30","Lap 2":"00:13:37.00","Lap 3":"00:15:20.55","Lap 4":"00:16:12.49"},
+			{"Place":"17","Bib":"147","First Name":"William","Last Name":"Carmichael","Gender":"M","Club":"Independent","Cat":"U15","Laps":"4","Points":"34","Finish Time":"01:02:21.124","Gap":"+15:38.47","Start":"00:00:00.00","Lap 1":"00:14:56.41","Lap 2":"00:15:20.79","Lap 3":"00:15:53.21","Lap 4":"00:16:10.70"},
+			{"Place":"18","Bib":"131","First Name":"Anthony","Last Name":"Friolet","Gender":"M","Club":"Independent","Cat":"U15","Laps":"4","Points":"33","Finish Time":"01:04:10.665","Gap":"+17:28.01","Start":"00:00:00.00","Lap 1":"00:15:30.75","Lap 2":"00:15:23.27","Lap 3":"00:16:41.23","Lap 4":"00:16:35.40"},
+			{"Place":"19","Bib":"127","First Name":"Guillaume","Last Name":"Friolet","Gender":"M","Club":"Independent","Cat":"U15","Laps":"4","Points":"32","Finish Time":"01:04:10.692","Gap":"+17:28.03","Start":"00:00:00.00","Lap 1":"00:15:55.73","Lap 2":"00:15:46.56","Lap 3":"00:15:49.41","Lap 4":"00:16:38.97"},
+			{"Place":"20","Bib":"122","First Name":"Jeremie","Last Name":"Mcintyre","Gender":"M","Club":"Independent","Cat":"U15","Laps":"3","Points":"31","Finish Time":"00:49:26.812","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:16:35.86","Lap 2":"00:15:22.89","Lap 3":"00:17:28.05","Lap 4":""},
+			{"Place":"21","Bib":"266","First Name":"Kaj","Last Name":"Jones","Gender":"M","Club":"The Radical Edge","Cat":"U15","Laps":"3","Points":"30","Finish Time":"00:50:24.143","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:16:48.41","Lap 2":"00:16:14.58","Lap 3":"00:17:21.14","Lap 4":""},
+			{"Place":"22","Bib":"116","First Name":"Ivanhoe","Last Name":"Corriveau","Gender":"M","Club":"Independent","Cat":"U15","Laps":"3","Points":"29","Finish Time":"00:53:48.154","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:16:32.51","Lap 2":"00:18:45.58","Lap 3":"00:18:30.05","Lap 4":""},
+			{"Place":"23","Bib":"264","First Name":"Xavier","Last Name":"Dupuis","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"3","Points":"28","Finish Time":"00:54:33.749","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:17:48.18","Lap 2":"00:18:05.22","Lap 3":"00:18:40.34","Lap 4":""},
+			{"Place":"24","Bib":"141","First Name":"Cody","Last Name":"Richard","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"3","Points":"27","Finish Time":"00:54:38.298","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:16:21.69","Lap 2":"00:18:23.12","Lap 3":"00:19:53.47","Lap 4":""},
+			{"Place":"25","Bib":"142","First Name":"Luc","Last Name":"Richard","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"3","Points":"26","Finish Time":"00:54:41.300","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:19:58.03","Lap 2":"00:16:21.02","Lap 3":"00:18:22.24","Lap 4":""},
+			{"Place":"26","Bib":"133","First Name":"Hayden","Last Name":"Sparkes","Gender":"M","Club":"Independent","Cat":"U15","Laps":"3","Points":"25","Finish Time":"00:58:17.514","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:18:25.28","Lap 2":"00:19:54.66","Lap 3":"00:19:57.56","Lap 4":""},
+			{"Place":"27","Bib":"110","First Name":"Yannick","Last Name":"David","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"3","Points":"24","Finish Time":"00:58:51.794","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:18:07.44","Lap 2":"00:18:52.74","Lap 3":"00:21:51.60","Lap 4":""},
+			{"Place":"28","Bib":"289","First Name":"William","Last Name":"Arseneau","Gender":"M","Club":"Fitworks","Cat":"U15","Laps":"3","Points":"23","Finish Time":"00:58:55.760","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:17:34.44","Lap 2":"00:19:38.20","Lap 3":"00:21:43.10","Lap 4":""},
+			{"Place":"29","Bib":"106","First Name":"Matthew","Last Name":"Robichaud","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"3","Points":"22","Finish Time":"01:03:01.885","Gap":"-1 Lap","Start":"00:00:00.00","Lap 1":"00:19:40.43","Lap 2":"00:21:03.84","Lap 3":"00:22:17.61","Lap 4":""},
+			{"Place":"30","Bib":"111","First Name":"Raphael","Last Name":"Fournier","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"2","Points":"21","Finish Time":"00:29:36.917","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:14:46.82","Lap 2":"00:14:50.09","Lap 3":"","Lap 4":""},
+			{"Place":"31","Bib":"119","First Name":"Nicco","Last Name":"LeBlanc","Gender":"M","Club":"VeloKent","Cat":"U15","Laps":"2","Points":"20","Finish Time":"00:48:45.759","Gap":"-2 Laps","Start":"00:00:00.00","Lap 1":"00:22:47.51","Lap 2":"00:25:58.24","Lap 3":"","Lap 4":""}
+		]
+},
+"U15::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"],["Lap 3"]
+		],
+	"results": [
+			{"Place":"1","Bib":"60","First Name":"Emilie Chloe","Last Name":"McIntyre","Gender":"F","Club":"Fitworks","Cat":"U15","Laps":"3","Points":"80","Finish Time":"00:39:34.202","Gap":"","Start":"00:01:59.00","Lap 1":"00:12:44.96","Lap 2":"00:13:26.55","Lap 3":"00:13:22.68"},
+			{"Place":"2","Bib":"101","First Name":"Jolene","Last Name":"Doucet","Gender":"F","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"3","Points":"70","Finish Time":"00:43:13.679","Gap":"+3:39.47","Start":"00:01:59.00","Lap 1":"00:14:04.82","Lap 2":"00:14:30.38","Lap 3":"00:14:38.46"},
+			{"Place":"3","Bib":"108","First Name":"Laurence","Last Name":"Arseneau","Gender":"F","Club":"Mountain & Fat Bike Chaleur ","Cat":"U15","Laps":"3","Points":"65","Finish Time":"00:43:14.499","Gap":"+3:40.29","Start":"00:01:59.00","Lap 1":"00:14:49.59","Lap 2":"00:13:43.45","Lap 3":"00:14:41.45"},
+			{"Place":"4","Bib":"134","First Name":"Emma","Last Name":"Volpé","Gender":"F","Club":"Savage's Bicycle Centre","Cat":"U15","Laps":"3","Points":"60","Finish Time":"00:49:32.320","Gap":"+9:58.11","Start":"00:01:59.00","Lap 1":"00:16:22.32","Lap 2":"00:16:41.00","Lap 3":"00:16:28.98"},
+			{"Place":"5","Bib":"273","First Name":"Mattea","Last Name":"McNair","Gender":"F","Club":"River Valley Cycling Inc","Cat":"U15","Laps":"3","Points":"55","Finish Time":"00:49:54.363","Gap":"+10:20.16","Start":"00:01:59.00","Lap 1":"00:16:24.28","Lap 2":"00:17:12.85","Lap 3":"00:16:17.22"},
+			{"Place":"6","Bib":"253","First Name":"Cloé","Last Name":"Vautour","Gender":"F","Club":"VeloKent","Cat":"U15","Laps":"3","Points":"50","Finish Time":"00:51:30.775","Gap":"+11:56.57","Start":"00:01:59.00","Lap 1":"00:16:11.02","Lap 2":"00:17:32.67","Lap 3":"00:17:47.08"},
+			{"Place":"7","Bib":"275","First Name":"Mégane","Last Name":"Lemay","Gender":"F","Club":"VeloKent","Cat":"U15","Laps":"3","Points":"48","Finish Time":"00:51:56.121","Gap":"+12:21.91","Start":"00:01:59.00","Lap 1":"00:16:33.53","Lap 2":"00:17:33.39","Lap 3":"00:17:49.19"},
+			{"Place":"8","Bib":"120","First Name":"Janie","Last Name":"Brideau-Chiasson","Gender":"F","Club":"Independent","Cat":"U15","Laps":"3","Points":"46","Finish Time":"00:55:30.383","Gap":"+15:56.18","Start":"00:01:59.00","Lap 1":"00:17:11.77","Lap 2":"00:18:43.31","Lap 3":"00:19:35.29"}
+		]
+},
+"U13::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"67","First Name":"Joshua","Last Name":"Pellerin","Gender":"M","Club":"Fitworks","Cat":"U13","Laps":"2","Points":"80","Finish Time":"00:25:36.387","Gap":"","Start":"00:00:00.00","Lap 1":"00:12:34.18","Lap 2":"00:13:02.20"},
+			{"Place":"2","Bib":"66","First Name":"Alain","Last Name":"Maillet","Gender":"M","Club":"VeloKent","Cat":"U13","Laps":"2","Points":"70","Finish Time":"00:26:17.025","Gap":"+0:40.63","Start":"00:00:00.00","Lap 1":"00:12:57.91","Lap 2":"00:13:19.11"},
+			{"Place":"3","Bib":"274","First Name":"Maxime","Last Name":"Michaud","Gender":"M","Club":"VeloKent","Cat":"U13","Laps":"2","Points":"65","Finish Time":"00:26:53.705","Gap":"+1:17.31","Start":"00:00:00.00","Lap 1":"00:13:12.81","Lap 2":"00:13:40.89"},
+			{"Place":"4","Bib":"69","First Name":"Caleb","Last Name":"Vautour","Gender":"M","Club":"VeloKent","Cat":"U13","Laps":"2","Points":"60","Finish Time":"00:28:32.249","Gap":"+2:55.86","Start":"00:00:00.00","Lap 1":"00:13:56.61","Lap 2":"00:14:35.63"},
+			{"Place":"5","Bib":"286","First Name":"Téo","Last Name":"Martin","Gender":"M","Club":"VeloKent","Cat":"U13","Laps":"2","Points":"55","Finish Time":"00:29:46.358","Gap":"+4:09.97","Start":"00:00:00.00","Lap 1":"00:14:42.20","Lap 2":"00:15:04.15"},
+			{"Place":"6","Bib":"112","First Name":"Mathis","Last Name":"Jean","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U13","Laps":"2","Points":"50","Finish Time":"00:31:07.503","Gap":"+5:31.11","Start":"00:00:00.00","Lap 1":"00:15:29.81","Lap 2":"00:15:37.68"},
+			{"Place":"7","Bib":"267","First Name":"Karel","Last Name":"Godin","Gender":"M","Club":"VeloKent","Cat":"U13","Laps":"2","Points":"48","Finish Time":"00:31:08.219","Gap":"+5:31.83","Start":"00:00:00.00","Lap 1":"00:15:14.20","Lap 2":"00:15:54.01"},
+			{"Place":"8","Bib":"105","First Name":"Mathieu","Last Name":"Vienneau","Gender":"M","Club":"Mountain & Fat Bike Chaleur ","Cat":"U13","Laps":"2","Points":"46","Finish Time":"00:34:52.662","Gap":"+9:16.27","Start":"00:00:00.00","Lap 1":"00:16:48.21","Lap 2":"00:18:04.45"},
+			{"Place":"9","Bib":"137","First Name":"Alexi","Last Name":"Blanchard","Gender":"M","Club":"Independent","Cat":"U13","Laps":"2","Points":"44","Finish Time":"00:43:39.411","Gap":"+18:03.02","Start":"00:00:00.00","Lap 1":"00:18:38.44","Lap 2":"00:25:00.97"}
+		]
+},
+"U13::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"],["Lap 2"]
+		],
+	"results": [
+			{"Place":"1","Bib":"73","First Name":"Eve","Last Name":"Michaud","Gender":"F","Club":"Vélo Edmundston","Cat":"U13","Laps":"2","Points":"80","Finish Time":"00:29:40.691","Gap":"","Start":"00:02:05.00","Lap 1":"00:14:33.87","Lap 2":"00:15:06.81"},
+			{"Place":"2","Bib":"125","First Name":"Noémie","Last Name":"Blanchard","Gender":"F","Club":"Independent","Cat":"U13","Laps":"2","Points":"70","Finish Time":"00:34:47.839","Gap":"+5:07.14","Start":"00:02:05.00","Lap 1":"00:16:32.75","Lap 2":"00:18:15.08"},
+			{"Place":"3","Bib":"132","First Name":"Lily-Jane","Last Name":"Sparkes","Gender":"F","Club":"Independent","Cat":"U13","Laps":"2","Points":"65","Finish Time":"00:38:00.178","Gap":"+8:19.48","Start":"00:02:05.00","Lap 1":"00:18:26.21","Lap 2":"00:19:33.96"},
+			{"Place":"4","Bib":"139","First Name":"Clara","Last Name":"Breau","Gender":"F","Club":"Independent","Cat":"U13","Laps":"2","Points":"60","Finish Time":"00:38:00.466","Gap":"+8:19.77","Start":"00:02:05.00","Lap 1":"00:18:25.68","Lap 2":"00:19:34.78"}
+		]
+},
+"U11::Male": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"]
+		],
+	"results": [
+			{"Place":"1","Bib":"265","First Name":"Xavier","Last Name":"LeBlanc","Gender":"M","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"80","Finish Time":"00:07:49.568","Gap":"","Start":"00:00:00.00","Lap 1":"00:07:49.56"},
+			{"Place":"2","Bib":"279","First Name":"Rein","Last Name":"Jones","Gender":"M","Club":"The Radical Edge","Cat":"U11","Laps":"1","Points":"70","Finish Time":"00:07:52.025","Gap":"+0:02.45","Start":"00:00:00.00","Lap 1":"00:07:52.02"},
+			{"Place":"3","Bib":"261","First Name":"Jacob","Last Name":"Picard","Gender":"M","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"65","Finish Time":"00:09:02.681","Gap":"+1:13.11","Start":"00:00:00.00","Lap 1":"00:09:02.68"},
+			{"Place":"4","Bib":"143","First Name":"Kayden","Last Name":"Roy Boateng","Gender":"M","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"60","Finish Time":"00:09:03.055","Gap":"+1:13.48","Start":"00:00:00.00","Lap 1":"00:09:03.05"},
+			{"Place":"5","Bib":"257","First Name":"Gabriel","Last Name":"Richard","Gender":"M","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"55","Finish Time":"00:09:05.328","Gap":"+1:15.76","Start":"00:00:00.00","Lap 1":"00:09:05.32"},
+			{"Place":"6","Bib":"287","First Name":"Tyler-James","Last Name":"Haché","Gender":"M","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"50","Finish Time":"00:09:29.165","Gap":"+1:39.59","Start":"00:00:00.00","Lap 1":"00:09:29.16"},
+			{"Place":"7","Bib":"126","First Name":"Noah","Last Name":"Doiron","Gender":"M","Club":"Independent","Cat":"U11","Laps":"1","Points":"48","Finish Time":"00:10:41.451","Gap":"+2:51.88","Start":"00:00:00.00","Lap 1":"00:10:41.45"},
+			{"Place":"8","Bib":"140","First Name":"Arthur","Last Name":"Breau","Gender":"M","Club":"Independent","Cat":"U11","Laps":"1","Points":"46","Finish Time":"00:10:57.707","Gap":"+3:08.13","Start":"00:00:00.00","Lap 1":"00:10:57.70"}
+		]
+},
+"U11::Female": {
+	"columns": [
+			["Place"],["Bib"],["First Name"],["Last Name"],["Gender"],["Club"],["Cat"],["Laps"],["Points"],["Finish Time"],["Gap"],["Start"],["Lap 1"]
+		],
+	"results": [
+			{"Place":"1","Bib":"136","First Name":"Isabel","Last Name":"Michaud","Gender":"F","Club":"Vélo Edmundston","Cat":"U11","Laps":"1","Points":"80","Finish Time":"00:09:39.112","Gap":"","Start":"00:00:00.00","Lap 1":"00:09:39.11"},
+			{"Place":"2","Bib":"271","First Name":"Marie-Eve","Last Name":"Michaud","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"70","Finish Time":"00:10:08.700","Gap":"+0:29.58","Start":"00:00:00.00","Lap 1":"00:10:08.70"},
+			{"Place":"3","Bib":"135","First Name":"Elyse","Last Name":"Michaud","Gender":"F","Club":"Independent","Cat":"U11","Laps":"1","Points":"65","Finish Time":"00:10:50.850","Gap":"+1:11.73","Start":"00:00:00.00","Lap 1":"00:10:50.85"},
+			{"Place":"4","Bib":"148","First Name":"Jessica","Last Name":"Allain","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"60","Finish Time":"00:11:15.400","Gap":"+1:36.28","Start":"00:00:00.00","Lap 1":"00:11:15.40"},
+			{"Place":"5","Bib":"268","First Name":"Laure-Anne","Last Name":"Lang","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"55","Finish Time":"00:11:15.866","Gap":"+1:36.75","Start":"00:00:00.00","Lap 1":"00:11:15.86"},
+			{"Place":"6","Bib":"288","First Name":"Valérie","Last Name":"LeBlanc","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"50","Finish Time":"00:11:56.416","Gap":"+2:17.30","Start":"00:00:00.00","Lap 1":"00:11:56.41"},
+			{"Place":"7","Bib":"144","First Name":"Maïla","Last Name":"Godin","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"48","Finish Time":"00:11:56.851","Gap":"+2:17.73","Start":"00:00:00.00","Lap 1":"00:11:56.85"},
+			{"Place":"8","Bib":"149","First Name":"Annie","Last Name":"Maillet","Gender":"F","Club":"VeloKent","Cat":"U11","Laps":"1","Points":"46","Finish Time":"00:13:14.016","Gap":"+3:34.90","Start":"00:00:00.00","Lap 1":"00:13:14.01"}
+		]
+	}
+}

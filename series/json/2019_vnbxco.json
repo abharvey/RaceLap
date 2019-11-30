@@ -1,0 +1,325 @@
+{
+"event": [
+{
+	"name": "2019 Overall Standings",
+	"date": "Jul, 28, 2019",
+	"location": "NB",
+	"organizer": "Velo NB",
+	"type": "XCO",
+	"resultstatus": "Official Results",
+	"public": true
+}
+],
+"A (Elite)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Andre","Last Name":"Landry","VNBAffiliation":"NB01678","UCIAffiliation":"10060476248","Club":"Bike-R-Way","Points":"1310"},
+			{"Place":"2","First Name":"Christian","Last Name":"Charette","VNBAffiliation":"NB01605","UCIAffiliation":"10054707879","Club":"The Radical Edge","Points":"1020"},
+			{"Place":"3","First Name":"Daniel","Last Name":"Breau","VNBAffiliation":"NB01642","UCIAffiliation":"10051734427","Club":"The Radical Edge","Points":"670"},
+			{"Place":"4","First Name":"Ryan","Last Name":"Muir","VNBAffiliation":"NB01830","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"608"},
+			{"Place":"5","First Name":"Rémi","Last Name":"Levesque","VNBAffiliation":"NB01757","UCIAffiliation":"10059867370","Club":"Project Dialed In","Points":"450"},
+			{"Place":"6","First Name":"Serge","Last Name":"Belanger","VNBAffiliation":"NB01728","UCIAffiliation":"10060724105","Club":"My Bike Shop","Points":"401"},
+			{"Place":"7","First Name":"Philip","Last Name":"Moravcik","VNBAffiliation":"NB01862","UCIAffiliation":"10082147967","Club":"Independent","Points":"390"},
+			{"Place":"8","First Name":"Jeff","Last Name":"Currie","VNBAffiliation":"NB01633","UCIAffiliation":"10062428978","Club":"Mike's Bike Shop","Points":"350"},
+			{"Place":"9","First Name":"Anthony","Last Name":"Arseneau","VNBAffiliation":"NB01679","UCIAffiliation":"10060215661","Club":"Project Dialed In","Points":"222"},
+			{"Place":"10","First Name":"Samuel","Last Name":"Rioux","VNBAffiliation":"NB01614","UCIAffiliation":"10073370982","Club":"Lorneville Cycling Club","Points":"205"},
+			{"Place":"11","First Name":"Jeff","Last Name":"Sparkes","VNBAffiliation":"NB02114","UCIAffiliation":"","Club":"The Radical Edge","Points":"204"},
+			{"Place":"12","First Name":"Jason","Last Name":"Lagace","VNBAffiliation":"NB01855","UCIAffiliation":"10059418544","Club":"Millennium Cycle & Sport","Points":"200"},
+			{"Place":"13","First Name":"Joshua","Last Name":"Thibodeau","VNBAffiliation":"NB02139","UCIAffiliation":"10011760121","Club":"Mike's Bike Shop","Points":"130"},
+			{"Place":"14","First Name":"Rheal","Last Name":"Jaillet","VNBAffiliation":"NB01615","UCIAffiliation":"10073659255","Club":"Fitworks","Points":"120"},
+			{"Place":"15","First Name":"Shaughn","Last Name":"Smith","VNBAffiliation":"NB01971","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"120"},
+			{"Place":"16","First Name":"Timo","Last Name":"Bschaden","VNBAffiliation":"NB01725","UCIAffiliation":"10062447772","Club":"Independent","Points":"120"},
+			{"Place":"17","First Name":"Jason","Last Name":"Stymiest","VNBAffiliation":"NB02161","UCIAffiliation":"0","Club":"The Radical Edge","Points":"110"},
+			{"Place":"18","First Name":"Martin","Last Name":"Pelletier","VNBAffiliation":"NB02012","UCIAffiliation":"10061101795","Club":"Mike's Bike Shop","Points":"85"}
+		]
+},
+"A (Elite)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Ella","Last Name":"Bragdon","VNBAffiliation":"NB01769","UCIAffiliation":"10061080274","Club":"Project Dialed In","Points":"1000"},
+			{"Place":"2","First Name":"Annik","Last Name":"Belanger","VNBAffiliation":"NB01729","UCIAffiliation":"10060724206","Club":"My Bike Shop","Points":"760"},
+			{"Place":"3","First Name":"Anna","Last Name":"Healy","VNBAffiliation":"NB01646","UCIAffiliation":"10003741150","Club":"The Radical Edge","Points":"450"},
+			{"Place":"4","First Name":"Melissa","Last Name":"Bordage","VNBAffiliation":"NB01606","UCIAffiliation":"10050681066","Club":"The Radical Edge","Points":"250"},
+			{"Place":"5","First Name":"Kimberly","Last Name":"Abbott","VNBAffiliation":"NB01720","UCIAffiliation":"10061093311","Club":"My Bike Shop","Points":"150"}
+		]
+},
+"B (Expert)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Dean","Last Name":"Michaud","VNBAffiliation":"NB01842","UCIAffiliation":"10061819393","Club":"Velo Edmundston","Points":"786"},
+			{"Place":"2","First Name":"David","Last Name":"Morin","VNBAffiliation":"NB01705","UCIAffiliation":"","Club":"Fitworks","Points":"700"},
+			{"Place":"3","First Name":"Marcel","Last Name":"Doucet","VNBAffiliation":"NB02026","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"660"},
+			{"Place":"4","First Name":"Marc-Andre","Last Name":"Martin","VNBAffiliation":"NB01975","UCIAffiliation":"10094874064","Club":"Vélo Jessome's","Points":"516"},
+			{"Place":"5","First Name":"Guy","Last Name":"Pellerin","VNBAffiliation":"NB01732","UCIAffiliation":"10060737340","Club":"Independent","Points":"515"},
+			{"Place":"6","First Name":"Denis","Last Name":"LeBlanc","VNBAffiliation":"NB01798","UCIAffiliation":"","Club":"VeloKent","Points":"500"},
+			{"Place":"7","First Name":"Tim","Last Name":"Bell","VNBAffiliation":"NB01868","UCIAffiliation":"","Club":"My Bike Shop","Points":"360"},
+			{"Place":"8","First Name":"Trevor","Last Name":"Bourque","VNBAffiliation":"NB01722","UCIAffiliation":"10076369191","Club":"My Bike Shop","Points":"300"},
+			{"Place":"9","First Name":"Mathieu","Last Name":"Belanger","VNBAffiliation":"NB01617","UCIAffiliation":"10079935155","Club":"Fitworks","Points":"250"},
+			{"Place":"10","First Name":"Jeffrey","Last Name":"Gaudet","VNBAffiliation":"NB01956","UCIAffiliation":"","Club":"Fitworks","Points":"240"},
+			{"Place":"11","First Name":"Jean-Guy","Last Name":"Babineau","VNBAffiliation":"NB01853","UCIAffiliation":"10062464142","Club":"My Bike Shop","Points":"168"},
+			{"Place":"12","First Name":"William","Last Name":"Wood","VNBAffiliation":"NB01609","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"160"},
+			{"Place":"13","First Name":"Chris","Last Name":"Plimmer","VNBAffiliation":"NB01716","UCIAffiliation":"","Club":"My Bike Shop","Points":"150"},
+			{"Place":"14","First Name":"Marks","Last Name":"Lockhart","VNBAffiliation":"NB01755","UCIAffiliation":"10090501990","Club":"My Bike Shop","Points":"134"},
+			{"Place":"15","First Name":"Adam","Last Name":"Baxter","VNBAffiliation":"NB02122","UCIAffiliation":"","Club":"River Valley Cycling Inc","Points":"120"},
+			{"Place":"16","First Name":"Cody","Last Name":"Jorgensen","VNBAffiliation":"NB01726","UCIAffiliation":"","Club":"Mike's Bike Shop","Points":"120"},
+			{"Place":"17","First Name":"Zachary","Last Name":"Bérubé","VNBAffiliation":"NB01832","UCIAffiliation":"10079633344","Club":"Velo Edmundston","Points":"120"},
+			{"Place":"18","First Name":"Brandon","Last Name":"Sellers","VNBAffiliation":"NB01829","UCIAffiliation":"10093755332","Club":"Independent","Points":"110"},
+			{"Place":"19","First Name":"Patrick","Last Name":"Sewell","VNBAffiliation":"NB02018","UCIAffiliation":"","Club":"My Bike Shop","Points":"110"},
+			{"Place":"20","First Name":"Thomas","Last Name":"Flannery","VNBAffiliation":"NB01867","UCIAffiliation":"10054279968","Club":"Independent","Points":"110"},
+			{"Place":"21","First Name":"John","Last Name":"McNair","VNBAffiliation":"NB02078","UCIAffiliation":"","Club":"Kings County Wheelers","Points":"100"},
+			{"Place":"22","First Name":"Marc","Last Name":"Basque","VNBAffiliation":"NB02088","UCIAffiliation":"","Club":"Independent","Points":"100"},
+			{"Place":"23","First Name":"Eric","Last Name":"Arseneau","VNBAffiliation":"NB01780","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"95"},
+			{"Place":"24","First Name":"Pierre","Last Name":"Losier","VNBAffiliation":"NB02014","UCIAffiliation":"","Club":"Independent","Points":"95"},
+			{"Place":"25","First Name":"Martin","Last Name":"Morais","VNBAffiliation":"NB01707","UCIAffiliation":"","Club":"Independent","Points":"85"},
+			{"Place":"26","First Name":"Philippe","Last Name":"Harrigan","VNBAffiliation":"NB02102","UCIAffiliation":"","Club":"Independent","Points":"85"},
+			{"Place":"27","First Name":"Daniel","Last Name":"Doiron","VNBAffiliation":"NB01635","UCIAffiliation":"","Club":"Independent","Points":"80"},
+			{"Place":"28","First Name":"Frank","Last Name":"Gallant","VNBAffiliation":"NB01911","UCIAffiliation":"","Club":"Independent","Points":"78"},
+			{"Place":"29","First Name":"Evan","Last Name":"Pemberton","VNBAffiliation":"NB01768","UCIAffiliation":"","Club":"My Bike Shop","Points":"76"},
+			{"Place":"30","First Name":"Pierre","Last Name":"LeBlanc","VNBAffiliation":"NB01735","UCIAffiliation":"10066679396","Club":"Fitworks","Points":"74"},
+			{"Place":"31","First Name":"Geoff","Last Name":"Gerhardt","VNBAffiliation":"NB02112","UCIAffiliation":"","Club":"Mike's Bike Shop","Points":"72"},
+			{"Place":"32","First Name":"Mathieu","Last Name":"Boucher","VNBAffiliation":"NB02037","UCIAffiliation":"","Club":"Independent","Points":"72"},
+			{"Place":"33","First Name":"Dany","Last Name":"Benoit","VNBAffiliation":"NB01723","UCIAffiliation":"","Club":"Mike's Bike Shop","Points":"68"},
+			{"Place":"34","First Name":"Sebastien","Last Name":"Leblanc","VNBAffiliation":"NB01612","UCIAffiliation":"","Club":"Independent","Points":"64"}
+		]
+},
+"B (Expert)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Kristina","Last Name":"Ouellette","VNBAffiliation":"NB01976","UCIAffiliation":"10062718059","Club":"Vélo Jessome's","Points":"1150"}
+		]
+},
+"C (Sport)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Richard","Last Name":"Sirois","VNBAffiliation":"NB02032","UCIAffiliation":"10095053011","Club":"Independent","Points":"970"},
+			{"Place":"2","First Name":"Stephane","Last Name":"Blanchard","VNBAffiliation":"NB01663","UCIAffiliation":"","Club":"Club plein air Caraquet","Points":"756"},
+			{"Place":"3","First Name":"Donald","Last Name":"Mallet","VNBAffiliation":"NB01754","UCIAffiliation":"10058687610","Club":"Mountain & Fat Bike Chaleur","Points":"670"},
+			{"Place":"4","First Name":"Jérémie","Last Name":"Fournier","VNBAffiliation":"NB01706","UCIAffiliation":"10065957657","Club":"Independent","Points":"570"},
+			{"Place":"5","First Name":"Marc","Last Name":"LeBlanc","VNBAffiliation":"NB01816","UCIAffiliation":"","Club":"VeloKent","Points":"549"},
+			{"Place":"6","First Name":"Jean-François","Last Name":"Michaud","VNBAffiliation":"NB01765","UCIAffiliation":"","Club":"VeloKent","Points":"500"},
+			{"Place":"7","First Name":"Maurice","Last Name":"Richard","VNBAffiliation":"NB01763","UCIAffiliation":"","Club":"VeloKent","Points":"500"},
+			{"Place":"8","First Name":"Rémi","Last Name":"Mantion","VNBAffiliation":"NB01959","UCIAffiliation":"","Club":"Centre de Vélo Dieppe","Points":"460"},
+			{"Place":"9","First Name":"Bertrand","Last Name":"Poirier","VNBAffiliation":"NB01818","UCIAffiliation":"","Club":"VeloKent","Points":"330"},
+			{"Place":"10","First Name":"Jacques Roch","Last Name":"Gauvin","VNBAffiliation":"NB02047","UCIAffiliation":"","Club":"VELO Bike Ski Trail","Points":"300"},
+			{"Place":"11","First Name":"Gabriel","Last Name":"Lang","VNBAffiliation":"NB01823","UCIAffiliation":"","Club":"VeloKent","Points":"293"},
+			{"Place":"12","First Name":"Mike","Last Name":"Tingley","VNBAffiliation":"NB02073","UCIAffiliation":"","Club":"My Bike Shop","Points":"280"},
+			{"Place":"13","First Name":"Joel","Last Name":"Jean","VNBAffiliation":"NB01739","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"250"},
+			{"Place":"14","First Name":"Michel","Last Name":"Robichaud","VNBAffiliation":"NB01749","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"234"},
+			{"Place":"15","First Name":"Samuel","Last Name":"Vautour","VNBAffiliation":"NB01686","UCIAffiliation":"","Club":"VeloKent","Points":"218"},
+			{"Place":"16","First Name":"Alexandre","Last Name":"Proulx","VNBAffiliation":"NB01724","UCIAffiliation":"","Club":"Independent","Points":"190"},
+			{"Place":"17","First Name":"Jason","Last Name":"Prince","VNBAffiliation":"NB01825","UCIAffiliation":"","Club":"Independent","Points":"190"},
+			{"Place":"18","First Name":"Cameron","Last Name":"Brioux","VNBAffiliation":"NB02044","UCIAffiliation":"","Club":"Independent","Points":"178"},
+			{"Place":"19","First Name":"Tyler","Last Name":"Knott","VNBAffiliation":"NB01713","UCIAffiliation":"","Club":"Independent","Points":"159"},
+			{"Place":"20","First Name":"Mario","Last Name":"Dupuis","VNBAffiliation":"NB01918","UCIAffiliation":"","Club":"Independent","Points":"150"},
+			{"Place":"21","First Name":"Dave","Last Name":"Allard","VNBAffiliation":"NB02041","UCIAffiliation":"","Club":"Independent","Points":"140"},
+			{"Place":"22","First Name":"Calvin","Last Name":"Gee","VNBAffiliation":"NB01761","UCIAffiliation":"10090647692","Club":"Millennium Cycle & Sport","Points":"130"},
+			{"Place":"23","First Name":"Mark","Last Name":"Lawson","VNBAffiliation":"NB01834","UCIAffiliation":"","Club":"Independent","Points":"120"},
+			{"Place":"24","First Name":"Stephane","Last Name":"Vautour","VNBAffiliation":"NB02019","UCIAffiliation":"","Club":"Independent","Points":"110"},
+			{"Place":"25","First Name":"Anthony","Last Name":"McEwen","VNBAffiliation":"NB02145","UCIAffiliation":"","Club":"Independent","Points":"100"},
+			{"Place":"26","First Name":"Jason","Last Name":"Thomsen","VNBAffiliation":"NB01966","UCIAffiliation":"","Club":"Fitworks","Points":"90"},
+			{"Place":"27","First Name":"Sylvain","Last Name":"Nadeau","VNBAffiliation":"NB01610","UCIAffiliation":"","Club":"Fitworks","Points":"90"},
+			{"Place":"28","First Name":"Eric","Last Name":"Lemay","VNBAffiliation":"NB01689","UCIAffiliation":"","Club":"VeloKent","Points":"80"},
+			{"Place":"29","First Name":"Michel","Last Name":"Corriveau","VNBAffiliation":"NB02152","UCIAffiliation":"","Club":"Independent","Points":"78"},
+			{"Place":"30","First Name":"Eric","Last Name":"Martin","VNBAffiliation":"NB01801","UCIAffiliation":"","Club":"VeloKent","Points":"72"},
+			{"Place":"31","First Name":"Joel","Last Name":"Arsenault","VNBAffiliation":"NB01935","UCIAffiliation":"","Club":"My Bike Shop","Points":"66"}
+		]
+},
+"C (Sport)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Maud","Last Name":"Michel","VNBAffiliation":"NB01920","UCIAffiliation":"","Club":"Club plein air Caraquet","Points":"450"},
+			{"Place":"2","First Name":"Caroline","Last Name":"Belliveau","VNBAffiliation":"NB01847","UCIAffiliation":"","Club":"Independent","Points":"410"},
+			{"Place":"3","First Name":"Kristen","Last Name":"Sweet","VNBAffiliation":"NB02153","UCIAffiliation":"10084401704","Club":"Bikes & Beans Team Bean","Points":"410"},
+			{"Place":"4","First Name":"Susan","Last Name":"Mayes","VNBAffiliation":"NB02048","UCIAffiliation":"","Club":"Bikes & Beans Team Bean","Points":"250"},
+			{"Place":"5","First Name":"Murielle","Last Name":"Godin","VNBAffiliation":"NB02157","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"200"},
+			{"Place":"6","First Name":"Jennifer","Last Name":"Kenny","VNBAffiliation":"NB02017","UCIAffiliation":"","Club":"Bikes & Beans Team Bean","Points":"160"},
+			{"Place":"7","First Name":"Margot","Last Name":"Belanger","VNBAffiliation":"NB02149","UCIAffiliation":"","Club":"Independent","Points":"160"},
+			{"Place":"8","First Name":"Cynthia","Last Name":"LeBlanc","VNBAffiliation":"NB02118","UCIAffiliation":"","Club":"Bikes & Beans Team Bean","Points":"150"},
+			{"Place":"9","First Name":"Linda","Last Name":"Dalpé","VNBAffiliation":"NB01782","UCIAffiliation":"","Club":"Club plein air Caraquet","Points":"140"}
+		]
+},
+"U17 (Youth)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Hayden","Last Name":"McKinnon","VNBAffiliation":"NB01848","UCIAffiliation":"10061104223","Club":"The Radical Edge","Points":"1500"},
+			{"Place":"2","First Name":"Noah","Last Name":"Lydon","VNBAffiliation":"NB01676","UCIAffiliation":"10061101593","Club":"The Radical Edge","Points":"1080"},
+			{"Place":"3","First Name":"Noah","Last Name":"Schwarz","VNBAffiliation":"NB01965","UCIAffiliation":"10077322522","Club":"The Radical Edge","Points":"910"},
+			{"Place":"4","First Name":"Antoine","Last Name":"Lacombe","VNBAffiliation":"NB01785","UCIAffiliation":"10061093210","Club":"Velo Edmundston","Points":"760"},
+			{"Place":"5","First Name":"Samuel","Last Name":"Beaupre","VNBAffiliation":"NB01672","UCIAffiliation":"10075803157","Club":"Fitworks","Points":"720"},
+			{"Place":"6","First Name":"Pascal","Last Name":"LeBlanc","VNBAffiliation":"NB01787","UCIAffiliation":"10075001491","Club":"VeloKent","Points":"582"},
+			{"Place":"7","First Name":"Patrick","Last Name":"Landry","VNBAffiliation":"NB01750","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"536"},
+			{"Place":"8","First Name":"Benjamin","Last Name":"Martin","VNBAffiliation":"NB01666","UCIAffiliation":"10061777058","Club":"Fitworks","Points":"450"},
+			{"Place":"9","First Name":"Gabriel","Last Name":"Robichaud","VNBAffiliation":"NB01745","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"422"},
+			{"Place":"10","First Name":"Grayden","Last Name":"Mutch","VNBAffiliation":"NB01930","UCIAffiliation":"10059646391","Club":"VeloKent","Points":"340"},
+			{"Place":"11","First Name":"Benoit","Last Name":"Jean","VNBAffiliation":"NB01741","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"332"},
+			{"Place":"12","First Name":"Samuel","Last Name":"Bossé","VNBAffiliation":"NB01784","UCIAffiliation":"10080755312","Club":"Velo Edmundston","Points":"315"},
+			{"Place":"13","First Name":"Anthony","Last Name":"Friolet","VNBAffiliation":"NB01967","UCIAffiliation":"10094786461","Club":"Club plein air Caraquet","Points":"280"},
+			{"Place":"14","First Name":"Edouard","Last Name":"Levesque","VNBAffiliation":"NB01756","UCIAffiliation":"10059867269","Club":"Velo Edmundston","Points":"260"},
+			{"Place":"15","First Name":"Jayson","Last Name":"Lawson","VNBAffiliation":"NB01950","UCIAffiliation":"10094772822","Club":"Fitworks","Points":"250"},
+			{"Place":"16","First Name":"Yannick","Last Name":"David","VNBAffiliation":"NB01753","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"212"},
+			{"Place":"17","First Name":"Mathieu","Last Name":"Lavoie","VNBAffiliation":"NB01968","UCIAffiliation":"10082023180","Club":"Velo Edmundston","Points":"205"},
+			{"Place":"18","First Name":"Ryan","Last Name":"Hache","VNBAffiliation":"NB01752","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"174"},
+			{"Place":"19","First Name":"Raphael","Last Name":"Fournier","VNBAffiliation":"NB01751","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"163"},
+			{"Place":"20","First Name":"William","Last Name":"Arseneau","VNBAffiliation":"NB01674","UCIAffiliation":"10066022931","Club":"Fitworks","Points":"136"},
+			{"Place":"21","First Name":"Samuel","Last Name":"Poirier","VNBAffiliation":"NB01709","UCIAffiliation":"10076573703","Club":"VeloKent","Points":"120"},
+			{"Place":"22","First Name":"Jack","Last Name":"Toner","VNBAffiliation":"NB01927","UCIAffiliation":"","Club":"GOYBAR","Points":"78"},
+			{"Place":"23","First Name":"William","Last Name":"Carmichael","VNBAffiliation":"NB01942","UCIAffiliation":"","Club":"GOYBAR","Points":"76"}
+		]
+},
+"U17 (Youth)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Emilie Chloe","Last Name":"McIntyre","VNBAffiliation":"NB01667","UCIAffiliation":"10061074719","Club":"Fitworks","Points":"1250"},
+			{"Place":"2","First Name":"Vanessa","Last Name":"Thomsen","VNBAffiliation":"NB01673","UCIAffiliation":"10055673637","Club":"Fitworks","Points":"1010"},
+			{"Place":"3","First Name":"Alexa","Last Name":"Chassé","VNBAffiliation":"NB01758","UCIAffiliation":"10079104288","Club":"Project Dialed In","Points":"400"},
+			{"Place":"4","First Name":"Laurence","Last Name":"Arseneau","VNBAffiliation":"NB01776","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"300"},
+			{"Place":"5","First Name":"Florence","Last Name":"Levesque","VNBAffiliation":"NB01668","UCIAffiliation":"10062448075","Club":"Fitworks","Points":"160"},
+			{"Place":"6","First Name":"Caroline","Last Name":"Martin","VNBAffiliation":"NB01905","UCIAffiliation":"10062582360","Club":"Independent","Points":"150"}
+		]
+},
+"U15 (Youth)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Alex","Last Name":"Hache","VNBAffiliation":"NB01665","UCIAffiliation":"10075804268","Club":"Fitworks","Points":"1500"},
+			{"Place":"2","First Name":"Noah","Last Name":"Doucette","VNBAffiliation":"NB01898","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"1140"},
+			{"Place":"3","First Name":"Xavier","Last Name":"Morin","VNBAffiliation":"NB01675","UCIAffiliation":"10059253543","Club":"Fitworks","Points":"820"},
+			{"Place":"4","First Name":"Joshua","Last Name":"Pellerin","VNBAffiliation":"NB01671","UCIAffiliation":"10060737441","Club":"Fitworks","Points":"740"},
+			{"Place":"5","First Name":"Duncan","Last Name":"Larsen","VNBAffiliation":"NB01882","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"680"},
+			{"Place":"6","First Name":"Etienne","Last Name":"Poirier","VNBAffiliation":"NB01821","UCIAffiliation":"10075001693","Club":"VeloKent","Points":"630"},
+			{"Place":"7","First Name":"Patrick","Last Name":"Fournier","VNBAffiliation":"NB01850","UCIAffiliation":"","Club":"VELO Bike Ski Trail","Points":"630"},
+			{"Place":"8","First Name":"Eric","Last Name":"Haché","VNBAffiliation":"NB01910","UCIAffiliation":"","Club":"Fitworks","Points":"400"},
+			{"Place":"9","First Name":"Kaj","Last Name":"Jones","VNBAffiliation":"NB01925","UCIAffiliation":"","Club":"GOYBAR","Points":"392"},
+			{"Place":"10","First Name":"Ivanhoé","Last Name":"Corriveau","VNBAffiliation":"NB01944","UCIAffiliation":"","Club":"GOYBAR","Points":"385"},
+			{"Place":"11","First Name":"Téo","Last Name":"Martin","VNBAffiliation":"NB01685","UCIAffiliation":"10076573501","Club":"VeloKent","Points":"383"},
+			{"Place":"12","First Name":"Maxime","Last Name":"Parker","VNBAffiliation":"NB01777","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"320"},
+			{"Place":"13","First Name":"Alexandre","Last Name":"Vautour","VNBAffiliation":"NB02150","UCIAffiliation":"","Club":"Independent","Points":"305"},
+			{"Place":"14","First Name":"Nicolas","Last Name":"Lavoie","VNBAffiliation":"NB01969","UCIAffiliation":"10082023281","Club":"Velo Edmundston","Points":"300"},
+			{"Place":"15","First Name":"Nicholas","Last Name":"Cormier-Massiera","VNBAffiliation":"NB02092","UCIAffiliation":"","Club":"Independent","Points":"244"},
+			{"Place":"16","First Name":"Izak","Last Name":"Toussaint","VNBAffiliation":"NB01981","UCIAffiliation":"10064250255","Club":"Velo Edmundston","Points":"241"},
+			{"Place":"17","First Name":"Jacob","Last Name":"Hache","VNBAffiliation":"NB01746","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"220"},
+			{"Place":"18","First Name":"Xavier","Last Name":"Dupuis","VNBAffiliation":"NB01923","UCIAffiliation":"","Club":"Independent","Points":"186"},
+			{"Place":"19","First Name":"Mathieu","Last Name":"Levesque","VNBAffiliation":"NB01859","UCIAffiliation":"10060848484","Club":"Velo Edmundston","Points":"156"},
+			{"Place":"20","First Name":"Matthew","Last Name":"Robichaud","VNBAffiliation":"NB02011","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"156"},
+			{"Place":"21","First Name":"Caleb","Last Name":"Vautour","VNBAffiliation":"NB01687","UCIAffiliation":"10075001188","Club":"VeloKent","Points":"140"},
+			{"Place":"22","First Name":"Nayan","Last Name":"Orfei","VNBAffiliation":"NB02128","UCIAffiliation":"","Club":"Independent","Points":"130"},
+			{"Place":"23","First Name":"Nicolas","Last Name":"Mueller","VNBAffiliation":"NB02049","UCIAffiliation":"10095149102","Club":"VeloKent","Points":"100"},
+			{"Place":"24","First Name":"Joshua","Last Name":"Boudreau","VNBAffiliation":"NB02148","UCIAffiliation":"","Club":"Independent","Points":"78"},
+			{"Place":"25","First Name":"Colby","Last Name":"Sirois","VNBAffiliation":"NB02033","UCIAffiliation":"10082703695","Club":"Velo Edmundston","Points":"74"},
+			{"Place":"26","First Name":"Bruno Pierre","Last Name":"Doucet","VNBAffiliation":"NB01744","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"68"}
+		]
+},
+"U15 (Youth)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Ève","Last Name":"Michaud","VNBAffiliation":"NB01844","UCIAffiliation":"10061848594","Club":"Velo Edmundston","Points":"1500"},
+			{"Place":"2","First Name":"Clara","Last Name":"Breau","VNBAffiliation":"NB01928","UCIAffiliation":"","Club":"GOYBAR","Points":"700"},
+			{"Place":"3","First Name":"Lydia","Last Name":"Cook","VNBAffiliation":"NB01670","UCIAffiliation":"10089077508","Club":"Fitworks","Points":"600"},
+			{"Place":"4","First Name":"Cloé","Last Name":"Vautour","VNBAffiliation":"NB01688","UCIAffiliation":"10075001289","Club":"VeloKent","Points":"350"},
+			{"Place":"5","First Name":"Mégane","Last Name":"Lemay","VNBAffiliation":"NB01788","UCIAffiliation":"10075001390","Club":"VeloKent","Points":"160"},
+			{"Place":"6","First Name":"Katie","Last Name":"Carmichael","VNBAffiliation":"NB01943","UCIAffiliation":"","Club":"GOYBAR","Points":"150"}
+		]
+},
+"U13 (Youth)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Maxime","Last Name":"Michaud","VNBAffiliation":"NB01767","UCIAffiliation":"10075002000","Club":"VeloKent","Points":"1200"},
+			{"Place":"2","First Name":"Frederic","Last Name":"Arseneau","VNBAffiliation":"NB01779","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"740"},
+			{"Place":"3","First Name":"Philippe","Last Name":"Morin","VNBAffiliation":"NB01704","UCIAffiliation":"","Club":"Fitworks","Points":"740"},
+			{"Place":"4","First Name":"Jonathan","Last Name":"Cook","VNBAffiliation":"NB01669","UCIAffiliation":"10089077407","Club":"Fitworks","Points":"700"},
+			{"Place":"5","First Name":"Rein","Last Name":"Jones","VNBAffiliation":"NB01924","UCIAffiliation":"","Club":"GOYBAR","Points":"660"},
+			{"Place":"6","First Name":"Jacob","Last Name":"Picard","VNBAffiliation":"NB01690","UCIAffiliation":"10075426473","Club":"VeloKent","Points":"610"},
+			{"Place":"7","First Name":"Xavier","Last Name":"LeBlanc","VNBAffiliation":"NB01786","UCIAffiliation":"10076573602","Club":"VeloKent","Points":"590"},
+			{"Place":"8","First Name":"Tyler-James","Last Name":"Haché","VNBAffiliation":"NB01684","UCIAffiliation":"10077840258","Club":"VeloKent","Points":"580"},
+			{"Place":"9","First Name":"Kayden","Last Name":"Roy Boateng","VNBAffiliation":"NB01915","UCIAffiliation":"10079648603","Club":"VeloKent","Points":"505"},
+			{"Place":"10","First Name":"Mathis","Last Name":"Jean","VNBAffiliation":"NB01742","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"500"},
+			{"Place":"11","First Name":"Simon","Last Name":"Arsenault","VNBAffiliation":"NB01902","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"430"},
+			{"Place":"12","First Name":"Mathieu","Last Name":"Vienneau","VNBAffiliation":"NB01747","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"360"},
+			{"Place":"13","First Name":"Patrick","Last Name":"Allain","VNBAffiliation":"NB01772","UCIAffiliation":"10091526554","Club":"VeloKent","Points":"345"},
+			{"Place":"14","First Name":"Alik","Last Name":"Toussaint","VNBAffiliation":"NB01982","UCIAffiliation":"10084124141","Club":"Velo Edmundston","Points":"295"},
+			{"Place":"15","First Name":"Dominic","Last Name":"Roy","VNBAffiliation":"NB02141","UCIAffiliation":"","Club":"Velo Edmundston","Points":"240"},
+			{"Place":"16","First Name":"Xavier","Last Name":"Vautour","VNBAffiliation":"NB01949","UCIAffiliation":"10094772721","Club":"Fitworks","Points":"190"},
+			{"Place":"17","First Name":"Patric","Last Name":"Goguen","VNBAffiliation":"NB01762","UCIAffiliation":"10075001087","Club":"VeloKent","Points":"188"},
+			{"Place":"18","First Name":"Ian","Last Name":"Carmichael","VNBAffiliation":"NB01946","UCIAffiliation":"","Club":"GOYBAR","Points":"160"},
+			{"Place":"19","First Name":"Jack","Last Name":"Allard","VNBAffiliation":"NB02057","UCIAffiliation":"","Club":"Savage's Bicycle Centre","Points":"140"},
+			{"Place":"20","First Name":"Alex","Last Name":"Brown","VNBAffiliation":"NB01743","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"78"},
+			{"Place":"21","First Name":"Téo","Last Name":"L'Italien","VNBAffiliation":"NB01708","UCIAffiliation":"10089817132","Club":"VeloKent","Points":"76"}
+		]
+},
+"U13 (Youth)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Sophia","Last Name":"Burry","VNBAffiliation":"NB01837","UCIAffiliation":"10093929023","Club":"Millennium Cycle & Sport","Points":"1450"},
+			{"Place":"2","First Name":"Noemie","Last Name":"Blanchard","VNBAffiliation":"NB01664","UCIAffiliation":"","Club":"Club plein air Caraquet","Points":"1040"},
+			{"Place":"3","First Name":"Isabel","Last Name":"Michaud","VNBAffiliation":"NB01843","UCIAffiliation":"10081564957","Club":"Velo Edmundston","Points":"750"},
+			{"Place":"4","First Name":"Mia","Last Name":"Baxter","VNBAffiliation":"NB01953","UCIAffiliation":"","Club":"River Valley Cycling Inc","Points":"540"},
+			{"Place":"5","First Name":"Malika","Last Name":"Allain","VNBAffiliation":"NB01828","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"450"},
+			{"Place":"6","First Name":"Lily-Jane","Last Name":"Sparkes","VNBAffiliation":"NB01948","UCIAffiliation":"","Club":"GOYBAR","Points":"360"},
+			{"Place":"7","First Name":"Jasmine","Last Name":"McGrath","VNBAffiliation":"NB01945","UCIAffiliation":"10094610245","Club":"VeloKent","Points":"350"},
+			{"Place":"8","First Name":"May Linda","Last Name":"Boudreau","VNBAffiliation":"NB01812","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"290"},
+			{"Place":"9","First Name":"Florence","Last Name":"D'Astous","VNBAffiliation":"NB01820","UCIAffiliation":"10093482823","Club":"VeloKent","Points":"260"},
+			{"Place":"10","First Name":"Jessica","Last Name":"Allain","VNBAffiliation":"NB01996","UCIAffiliation":"","Club":"VeloKent","Points":"260"},
+			{"Place":"11","First Name":"Catherine","Last Name":"Belanger","VNBAffiliation":"NB01977","UCIAffiliation":"","Club":"Independent","Points":"140"},
+			{"Place":"12","First Name":"Mariève","Last Name":"Martin","VNBAffiliation":"NB01904","UCIAffiliation":"10094598525","Club":"Independent","Points":"140"},
+			{"Place":"13","First Name":"Amélie","Last Name":"Paulin","VNBAffiliation":"NB01974","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"120"}
+		]
+},
+"U11 (Youth)::Male": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Alexandre","Last Name":"Caissie","VNBAffiliation":"NB01712","UCIAffiliation":"10079755707","Club":"VeloKent","Points":"1250"},
+			{"Place":"2","First Name":"Floyd","Last Name":"Burry","VNBAffiliation":"NB01838","UCIAffiliation":"10093929124","Club":"Millennium Cycle & Sport","Points":"970"},
+			{"Place":"3","First Name":"Dominic","Last Name":"Beaupre","VNBAffiliation":"NB01802","UCIAffiliation":"10092912644","Club":"Independent","Points":"720"},
+			{"Place":"4","First Name":"Xavier","Last Name":"Caissie","VNBAffiliation":"NB01796","UCIAffiliation":"10092833024","Club":"VeloKent","Points":"570"},
+			{"Place":"5","First Name":"Arthur","Last Name":"Breau","VNBAffiliation":"NB02129","UCIAffiliation":"","Club":"Independent","Points":"485"},
+			{"Place":"6","First Name":"Jessy","Last Name":"Cormier","VNBAffiliation":"NB01951","UCIAffiliation":"10094772923","Club":"VeloKent","Points":"450"},
+			{"Place":"7","First Name":"Julien","Last Name":"Murdock","VNBAffiliation":"NB02003","UCIAffiliation":"","Club":"Mike's Bike Shop","Points":"450"},
+			{"Place":"8","First Name":"Gabriel","Last Name":"Richard","VNBAffiliation":"NB01764","UCIAffiliation":"10076696567","Club":"VeloKent","Points":"350"},
+			{"Place":"9","First Name":"Mikel","Last Name":"Bryar","VNBAffiliation":"NB02155","UCIAffiliation":"","Club":"VeloKent","Points":"280"},
+			{"Place":"10","First Name":"Yanik","Last Name":"Mazerolle","VNBAffiliation":"NB01795","UCIAffiliation":"10075766983","Club":"VeloKent","Points":"270"},
+			{"Place":"11","First Name":"Louka","Last Name":"L'Italien","VNBAffiliation":"NB01710","UCIAffiliation":"10089817435","Club":"VeloKent","Points":"188"},
+			{"Place":"12","First Name":"Louis","Last Name":"Allain","VNBAffiliation":"NB02107","UCIAffiliation":"","Club":"Mountain & Fat Bike Chaleur","Points":"130"},
+			{"Place":"13","First Name":"Maxime","Last Name":"McGrath","VNBAffiliation":"NB01936","UCIAffiliation":"","Club":"VeloKent","Points":"110"},
+			{"Place":"14","First Name":"Yannick","Last Name":"McGrath","VNBAffiliation":"NB01940","UCIAffiliation":"","Club":"VeloKent","Points":"95"},
+			{"Place":"15","First Name":"Louis","Last Name":"D'Astous","VNBAffiliation":"NB01819","UCIAffiliation":"10093482722","Club":"VeloKent","Points":"85"}
+		]
+},
+"U11 (Youth)::Female": {
+	"columns": [
+			["Place"],["First Name"],["Last Name"],["VNBAffiliation"],["UCIAffiliation"],["Club"],["Points"]
+		],
+	"results": [
+			{"Place":"1","First Name":"Laure-Anne","Last Name":"Lang","VNBAffiliation":"NB01691","UCIAffiliation":"10079756010","Club":"VeloKent","Points":"1300"},
+			{"Place":"2","First Name":"Marie-Eve","Last Name":"Michaud","VNBAffiliation":"NB01766","UCIAffiliation":"10075002101","Club":"VeloKent","Points":"1200"},
+			{"Place":"3","First Name":"Valérie","Last Name":"LeBlanc","VNBAffiliation":"NB01833","UCIAffiliation":"10075662105","Club":"VeloKent","Points":"910"},
+			{"Place":"4","First Name":"Élyse","Last Name":"Michaud","VNBAffiliation":"NB01845","UCIAffiliation":"10084389980","Club":"Velo Edmundston","Points":"680"},
+			{"Place":"5","First Name":"Siena","Last Name":"Arseneault","VNBAffiliation":"NB01901","UCIAffiliation":"","Club":"Millennium Cycle & Sport","Points":"420"},
+			{"Place":"6","First Name":"Kamille","Last Name":"Doiron","VNBAffiliation":"NB01960","UCIAffiliation":"","Club":"Independent","Points":"150"}
+		]
+	}
+}
